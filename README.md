@@ -60,11 +60,11 @@ I successfully completed a project focused on Handwritten Text Recognition using
 
 ### Education
 
-MSc, Data Science: 
-Manchester Metropolitan University
+MSc, Data Science | Manchester Metropolitan University (_December 2023_)
 
-BCA: 
-Mahatma Gandhi University
+BCA | Mahatma Gandhi University (_March 2017_)
+
+Computer Science | State Board Kerala (_March 2014_)
 
 ### Contact Information
 
