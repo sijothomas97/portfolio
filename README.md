@@ -1,10 +1,18 @@
-# Developer | Data Science | ML | Python
+# Machine Learning Associate | Full Stack Developer | Data Analyst | System Engineer
+
+### Education
+
+MSc, Data Science | Manchester Metropolitan University (_December 2023_)
+
+BCA | Mahatma Gandhi University (_March 2017_)
+
+Computer Science | State Board Kerala (_March 2014_)
 
 ### Overview
-Experienced Developer and Data Science Professional with a robust background in Python Development, Machine Learning, and Deep Learning. Demonstrated success in developing high-scale web applications utilizing advanced NLP and Data Science models. Proficient in developing scalable Python and Machine Learning solutions, streamlining workflows, and enhancing system efficiency. Holds a Master’s degree in Data Science with a specialization in Machine Learning and Deep Learning. Published projects showcase expertise in Time Series analysis, machine learning algorithms, and deep learning methodologies.
+Experienced Developer and Data Science Associate with a robust background in Full Stack Development, Machine Learning, and Data Analytics. Demonstrated success in developing high-scale web applications and Machine Learning solutions utilizing advanced NLP and Data Science models. Proficient in developing frontend, backend and database of web applications, scalable Machine Learning solutions, streamlining workflows, and enhancing system efficiency. Holds a Master’s degree in Data Science with a specialization in Statistics, Machine Learning and Deep Learning. Published projects showcase expertise in Time Series analysis, Machine Learning algorithms, and Deep Learning methodologies.
 
 ### Professional Experience
-Senior Software Engineer @ Wipro Ltd
+System Engineer @ Wipro Ltd
 
 - Development and Refactoring: Lead development efforts for new features, enhancements, and refactoring within
 the web application, ensuring adherence to coding standards, best practices, and scalability requirements.
@@ -14,7 +22,7 @@ the web application, ensuring adherence to coding standards, best practices, and
 - Maintenance and Support: Oversee ongoing maintenance and support activities, including bug fixes, performance optimization, and security updates, to ensure the stability and reliability of the application.
 
 
-Software Engineer @ Infosys Ltd
+System Engineer | Full Stack Developer @ Infosys Ltd
 
 - Module Development: Independently developed specific modules or features of the application, ensuring strict adherence to coding standards, best practices, and project timelines.
 - Requirement Analysis: Collaborate with stakeholders to gather and analyze requirements for the web application, identifying technical challenges and proposing solutions.
@@ -26,23 +34,21 @@ Software Engineer @ Infosys Ltd
 
 ### Technical Skills
 
-- Python Development: 
-Proficiency in Python programming language, including experience with libraries/frameworks such as Flask for web development.
-
 - Machine Learning (ML) and Natural Language Processing (NLP): 
 Strong understanding of ML concepts and NLP techniques, with practical experience in implementing ML models for tasks such as text classification, sentiment analysis, or entity recognition.
 
-- MongoDB: 
-Experience with MongoDB database management system, including database design, querying, indexing, and perfor- mance optimization.
-
-- Angular CLI: 
+- Frontend Development:
 Proficiency in Angular CLI for building dynamic and responsive front-end interfaces, including components, services, and routing.
-
-- Web Application Development: 
-Ability to develop web applications from scratch, including designing architecture, creating RESTful APIs, and inte- grating front-end and back-end components.
 
 - Backend Development: 
 Experience with server-side technologies and frameworks, such as Node.js, Express.js, Flask(Python) for building robust and scalable backend systems.
+Proficiency in programming languages: Python, Java, C#, JavaScript, TypeScript.
+
+- Database Development: 
+Experience with MongoDB database management system, including database design, querying, indexing, and perfor- mance optimization.
+
+- Web Application Development: 
+Ability to develop web applications from scratch, including designing architecture, creating RESTful APIs, and inte- grating front-end and back-end components.
 
 - Module Development: 
 Proven ability to independently develop and integrate specific modules or features within the web application, demon- strating strong problem-solving and self-management skills.
@@ -57,14 +63,6 @@ Employing techniques such as ARIMA, SARIMA, and LSTM neural networks, I analyzed
 
 - Handwritten text recognition using Deep Learning:
 I successfully completed a project focused on Handwritten Text Recognition using Deep Learning techniques. Utilizing convolutional neural networks (CNNs) and recurrent neural networks (RNNs), I developed a robust system capable of accurately recognizing and transcribing handwritten text. This project not only honed my skills in deep learning and computer vision but also provided valuable experience in tackling real-world challenges related to optical character recognition (OCR) and document processing.
-
-### Education
-
-MSc, Data Science | Manchester Metropolitan University (_December 2023_)
-
-BCA | Mahatma Gandhi University (_March 2017_)
-
-Computer Science | State Board Kerala (_March 2014_)
 
 ### Contact Information
 
