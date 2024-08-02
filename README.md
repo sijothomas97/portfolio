@@ -28,25 +28,25 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
 ### Projects I made
 
 
-:one: Time series modelling in Financial Market:
-- Models Used: ARIMA, SARIMA, ARCH, ARDL, and GARCH
-- Tech Stack:[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,git,github,visualstudio,windows,stackoverflow)](https://skillicons.dev)
+- `Time series modelling in Financial Market`:
+  -  Models Used: ARIMA, SARIMA, ARCH, ARDL, and GARCH
+  -  Tech Stack:[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,git,github,visualstudio,windows,stackoverflow)](https://skillicons.dev)
 
 
-2. Handwritten text reading through Deep Learning:
-- Models Used: CNN, RNN
-- Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,git,github,visualstudio,windows,stackoverflow)](https://skillicons.dev)
+- `Handwritten text reading through Deep Learning`:
+  - Models Used: CNN, RNN
+  - Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,git,github,visualstudio,windows,stackoverflow)](https://skillicons.dev)
 Python, OpenCV, NumPy, Pandas, TensorFlow, PyTorch, scikit-learn, Matplotlib, Seaborn
 
 
-3. Automobile price optimisation using Advanced ML:
-- Models Used:
-- Tech Stack:
+- `Automobile price optimisation using Advanced ML`:
+  - Models Used:
+  - Tech Stack:
 
 
-4. Email filter using Advanced NLP:
-- Models Used: 
-- Tech Stack: 
+- `Email filter using Advanced NLP`:
+  - Models Used: 
+  - Tech Stack: 
 
 
 ### Professional Experience I hold
