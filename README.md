@@ -52,19 +52,19 @@ Python, OpenCV, NumPy, Pandas, TensorFlow, PyTorch, scikit-learn, Matplotlib, Se
 ### Professional Experience I hold
 
 
-Wipro Ltd (_Jan 2022 - July 2022_)
-  - Python Developer @ Dell Account
+`Wipro Ltd` (Jan 2022 - July 2022)
+  - `Python Developer` @ Dell Account
   - Tools Developed: Price Optimisation Tool
   - Tech stack: [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,mysql,postgres,azure,git,github,kubernetes,docker,postman,visualstudio,windows,stackoverflow)](https://skillicons.dev)
 
 
-Infosys Ltd (_Oct 2017 - Dec 2021_)
-  - Full Stack Developer @ AI/ML Solutions Team (_Jun 2018 - Dec 2021_)
+`Infosys Ltd` (Oct 2017 - Dec 2021)
+  - `Full Stack Developer` @ AI/ML Solutions Team (Jun 2018 - Dec 2021)
   - Tools Developed: Ticket Triaging, Fraud Detection, Microbots Workflow
   - Tech Stack: [![My Skills](https://skillicons.dev/icons?i=angular,html,css,ts,py,flask,npm,java,tensorflow,pytorch,matlab,sklearn,mongodb,azure,github,git,docker,postman,anaconda,vscode,stackoverflow,windows)](https://skillicons.dev)
 
 
-  - Backend Developer @ Metlife Account(_Oct 2017 - May 2018_)
+  - `Backend Developer` @ Metlife Account(Oct 2017 - May 2018)
   - Tools developed: Data Masking Tool
   - Tech Stack: [![My Skills](https://skillicons.dev/icons?i=angular,css,html,js,nodejs,spring,npm,git,github,stackoverflow,visualstudio,vscode,windows)](https://skillicons.dev)
 
@@ -72,10 +72,10 @@ Infosys Ltd (_Oct 2017 - Dec 2021_)
 ### My Education
 
 
-`MSc, Data Science` | Manchester Metropolitan University (_December 2023_)
+`MSc, Data Science` | Manchester Metropolitan University (December 2023)
 
-`Bachelor of Computer Application` | Mahatma Gandhi University (_March 2017_)
+`Bachelor of Computer Application` | Mahatma Gandhi University (March 2017)
 
-`Computer Science` | State Board Kerala (_March 2014_)
+`Computer Science` | State Board Kerala (March 2014)
 
   
