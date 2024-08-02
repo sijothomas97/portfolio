@@ -1,12 +1,12 @@
 # Python & Full Stack Developer | Machine Learning | NLP | Deep Learning
 
-### Contact Information
+### Contact Me
 
 - Email: sijo.thomas0097@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sijothomas1/
 - Phone: +44 7767990251
 
-### Education
+### My Education
 
 MSc, Data Science | Manchester Metropolitan University (_December 2023_)
 
@@ -14,10 +14,11 @@ BCA | Mahatma Gandhi University (_March 2017_)
 
 Computer Science | State Board Kerala (_March 2014_)
 
-### Hi! I'm Sijo Thomas, an experianced Python and Full-stack developer specialised in Machine Learning, NLP and Deep Learning. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.
+### Who am I?
+Hi! I'm Sijo Thomas, an experianced Python and Full-stack developer specialised in Machine Learning, NLP and Deep Learning. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.
 
 
-### Technical Skills
+### Technical Skills I Bring
 
 | `Core Skills` | `Coding & Debugging` `Backend, API & Frontend Development` `Design Database` `NLP` `Machine Learning & Deep Learning` |
 | :---: | :---: |
@@ -31,7 +32,7 @@ Computer Science | State Board Kerala (_March 2014_)
 | `Soft Skills` | `Problem Solving` `Team Player` `Continuous Learning` `Communication skills` `Adaptability`
 
 
-### Professional Experience
+### Professional Experience I have
 
 Wipro Ltd (_Jan 2022 - July 2022_)
   - Python Developer @ Dell Account
@@ -49,14 +50,14 @@ Infosys Ltd (_Oct 2017 - Dec 2021_)
 
 
 
-### Personal Projects
+### Projects I made
 
-- Time series modelling in Financial Market:
+#### Time series modelling in Financial Market:
 - Models Used: ARIMA, SARIMA, and LSTM neural networks
 - Tech Stack: 
 
-- Handwritten text reading through Deep Learning:
+#### Handwritten text reading through Deep Learning:
 - Models Used: CNN, RNN
 - Tech Stack:
 
-- 
+  
