@@ -28,7 +28,7 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
 ### Projects I made
 
 
-1. Time series modelling in Financial Market:
+:one: Time series modelling in Financial Market:
 - Models Used: ARIMA, SARIMA, ARCH, ARDL, and GARCH
 - Tech Stack:[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,git,github,visualstudio,windows,stackoverflow)](https://skillicons.dev)
 
