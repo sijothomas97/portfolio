@@ -13,16 +13,16 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
 
 ### Technical Skills I Bring
 
-| Core Skills | `Coding & Debugging` `Backend, API & Frontend Development` `Database Design` `NLP` `Machine Learning & Deep Learning` |
+| Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` |
 | :--- | :---: |
-| Languages & Frameworks | `Python (Flask)`, `C# (.Net)`, `JavaScript`, `TypeScript`, `Node.js`, `Angular`, `React` |
-| Database | `SQL (MySQL, PostgreSQL, SQL Server)`, `MongoDB`
-| Data Analysis and Visualisation | `MS Excel`, `Pandas`, `NumPy`, `Plotly`, `Matplotlib`, `Seaborn`
-| ML & Deep Learning | `TensorFlow`, `PyTorch`, `NLTK`, `Scikit-Learn`, `Keras`
-| Cloud services | `AWS`, `Azure`
-| Development Tools | `Git`, `Docker`, `Visual Studio`, `VS Code`, `Jupyter Notebook`, `Google Colab`
-| Operating Systems | `Mac OS`, `Windows`, `Linux`
-| Soft Skills | `Problem Solving`, `Team Player`, `Continuous Learning`, `Communication skills`, `Adaptability`
+| Languages & Frameworks | `Python (Flask), C# (.Net), JavaScript, TypeScript, Node.js, Angular, React` |
+| Database | `SQL (MySQL, PostgreSQL, SQL Server), MongoDB`
+| Data Analysis and Visualisation | `MS Excel, Pandas, NumPy, Plotly, Matplotlib, Seaborn`
+| ML & Deep Learning | `TensorFlow, PyTorch, NLTK, Scikit-Learn, Keras`
+| Cloud services | `AWS, Azure`
+| Development Tools | `Git, Docker, Visual Studio, VS Code, Jupyter Notebook, Google Colab`
+| Operating Systems | `Mac OS, Windows, Linux`
+| Soft Skills | `Problem Solving, Team Player, Continuous Learning, Communication skills, Adaptability`
 
 
 ### Projects I made
@@ -49,7 +49,7 @@ Python, OpenCV, NumPy, Pandas, TensorFlow, PyTorch, scikit-learn, Matplotlib, Se
 - Tech Stack: 
 
 
-### Professional Experience I have
+### Professional Experience I hold
 
 
 Wipro Ltd (_Jan 2022 - July 2022_)
@@ -72,10 +72,10 @@ Infosys Ltd (_Oct 2017 - Dec 2021_)
 ### My Education
 
 
-MSc, Data Science | Manchester Metropolitan University (_December 2023_)
+`MSc, Data Science` | Manchester Metropolitan University (_December 2023_)
 
-BCA | Mahatma Gandhi University (_March 2017_)
+`Bachelor of Computer Application` | Mahatma Gandhi University (_March 2017_)
 
-Computer Science | State Board Kerala (_March 2014_)
+`Computer Science` | State Board Kerala (_March 2014_)
 
   
