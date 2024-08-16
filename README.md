@@ -10,14 +10,14 @@
 ### Who am I?
 Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.
 
-### Core Skills I have: `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning`
-
-
-
-### Technical Skills I Bring
+### Core Skills I have: 
+- `Coding & Debugging`,
+- `Backend, API & Frontend Development`,
+- `Database Design`,
+- `NLP, Machine Learning & Deep Learning`
 
 <!-- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | -->
-| Technical Skills I Bring    |  |
+| Technical Skills  | I Bring |
 | :--- | :---: |
 | Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js,ts,nodejs,angular,react&titles=true)](https://skillicons.dev) |
 | Database | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver,mongodb&titles=true)
