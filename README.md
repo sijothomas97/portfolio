@@ -18,8 +18,8 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
 | `NLP, Machine Learning & Deep Learning`  |  `Adaptability`  | -->
 
 
-<!-- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | -->
-| Technical Skills  | I Bring |
+| Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | 
+<!-- | Technical Skills  | I Bring |-->
 | :--- | :---: |
 <!-- | Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js,ts,nodejs,angular,react&titles=true) |
 | Database | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver,mongodb&titles=true) |
