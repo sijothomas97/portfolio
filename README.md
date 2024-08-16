@@ -18,15 +18,17 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
 | `NLP, Machine Learning & Deep Learning`  |  `Adaptability`  | -->
 
 
-| Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | 
-<!-- | Technical Skills  | I Bring |-->
+<!--- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | --->
+
+
+| Technical Skills  | I Bring |
 | :--- | :---: |
-<!-- | Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js,ts,nodejs,angular,react&titles=true) |
+| Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js,ts,nodejs,angular,react&titles=true) |
 | Database | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver,mongodb&titles=true) |
-| Data Analysis and Visualisation | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,pandas,numpy,matplotlib,seaborn&titles=true) |<!-- Plotly ->
-| ML & Deep Learning | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,scikitlearn&titles=true) | <!-- Keras,NLTK ->
+| Data Analysis and Visualisation | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,pandas,numpy,matplotlib,seaborn&titles=true) |<!-- Plotly -->
+| ML & Deep Learning | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,scikitlearn&titles=true) | <!-- Keras,NLTK -->
 | Cloud services | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,azure&titles=true)  |
-| Development Tools | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vscode,jupyter&titles=true) |<!-- Google Colab ->
+| Development Tools | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vscode,jupyter&titles=true) |<!-- Google Colab -->
 | Operating Systems | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,linux&titles=true)  | <!--  Mac OS --> 
 
 | Languages & Frameworks | `Python (Flask), C# (.Net), JavaScript, TypeScript, Node.js, Angular, React` |
