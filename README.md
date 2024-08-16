@@ -10,11 +10,27 @@
 ### Who am I?
 Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.
 
+### Core Skills I have
+1. `Coding & Debugging`
+2. `Backend, API & Frontend Development`
+3. `Database Design`
+4. `NLP, Machine Learning & Deep Learning`
+
 
 ### Technical Skills I Bring
 
-| Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` |
+[//]:# | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` |
 | :--- | :---: |
+| Languages & Frameworks | [![My Skills](https://skillicons.dev/icons?i=py,flask,cs,dotnet,js,ts,nodejs,angular,react)](https://skillicons.dev) |
+| Database | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver,mongodb&titles=true)
+| Data Analysis and Visualisation | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,pandas,numpy,matplotlib,seaborn&titles=true) [//]:# `, Plotly, `
+| ML & Deep Learning | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,scikitlearn&titles=true)  [//]:#Keras,NLTK
+| Cloud services | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,azure&titles=true)
+| Development Tools | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vscode,jupyter&titles=true) [//]:# Google Colab
+| Operating Systems | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,linux&titles=true) [//]:# Mac OS, 
+
+Soft Skills I have: `Problem Solving, Team Player, Continuous Learning, Communication skills, Adaptability`
+
 | Languages & Frameworks | `Python (Flask), C# (.Net), JavaScript, TypeScript, Node.js, Angular, React` |
 | Database | `SQL (MySQL, PostgreSQL, SQL Server), MongoDB`
 | Data Analysis and Visualisation | `MS Excel, Pandas, NumPy, Plotly, Matplotlib, Seaborn`
