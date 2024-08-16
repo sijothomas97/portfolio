@@ -29,7 +29,6 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
 | Development Tools | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vscode,jupyter&titles=true) |<!-- Google Colab -->
 | Operating Systems | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,linux&titles=true)  | <!--  Mac OS --> 
 
-: `Problem Solving, Team Player, Continuous Learning, Communication skills, Adaptability`
 <!--
 | Languages & Frameworks | `Python (Flask), C# (.Net), JavaScript, TypeScript, Node.js, Angular, React` |
 | Database | `SQL (MySQL, PostgreSQL, SQL Server), MongoDB`
