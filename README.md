@@ -10,24 +10,24 @@
 ### Who am I?
 Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.
 
-| Core Skills I have | Soft Skills I have|
+<!-- | Core Skills I have | Soft Skills I have|
 | ---  |  ---  |
 | `Coding & Debugging` | `Problem Solving`  |
 | `Backend, API & Frontend Development` | `Team Player`  |
 | `Database Design` | `Continuous Learning`  |  `Communication skills` |
-| `NLP, Machine Learning & Deep Learning`  |  `Adaptability`  |
+| `NLP, Machine Learning & Deep Learning`  |  `Adaptability`  | -->
 
 
 <!-- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | -->
 | Technical Skills  | I Bring |
 | :--- | :---: |
 | Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js,ts,nodejs,angular,react&titles=true) |
-| Database | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver,mongodb&titles=true)
-| Data Analysis and Visualisation | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,pandas,numpy,matplotlib,seaborn&titles=true) <!-- Plotly -->
-| ML & Deep Learning | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,scikitlearn&titles=true)  <!-- Keras,NLTK -->
-| Cloud services | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,azure&titles=true)
-| Development Tools | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vscode,jupyter&titles=true) <!-- Google Colab -->
-| Operating Systems | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,linux&titles=true) <!--  Mac OS --> 
+| Database | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver,mongodb&titles=true) |
+| Data Analysis and Visualisation | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,pandas,numpy,matplotlib,seaborn&titles=true) |<!-- Plotly -->
+| ML & Deep Learning | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,scikitlearn&titles=true) | <!-- Keras,NLTK -->
+| Cloud services | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=aws,azure&titles=true)  |
+| Development Tools | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vscode,jupyter&titles=true) |<!-- Google Colab -->
+| Operating Systems | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,linux&titles=true)  | <!--  Mac OS --> 
 
 : `Problem Solving, Team Player, Continuous Learning, Communication skills, Adaptability`
 <!--
