@@ -31,14 +31,14 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
 | Development Tools | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,docker,visualstudio,vscode,jupyter&titles=true) |<!-- Google Colab -->
 | Operating Systems | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,linux&titles=true)  | <!--  Mac OS --> 
 
-| Languages & Frameworks | `Python (Flask), C# (.Net), JavaScript, TypeScript, Node.js, Angular, React` |
+<!--- | Languages & Frameworks | `Python (Flask), C# (.Net), JavaScript, TypeScript, Node.js, Angular, React` |
 | Database | `SQL (MySQL, PostgreSQL, SQL Server), MongoDB`  |
 | Data Analysis and Visualisation | `MS Excel, Pandas, NumPy, Plotly, Matplotlib, Seaborn`  |
 | ML & Deep Learning | `TensorFlow, PyTorch, NLTK, Scikit-Learn, Keras`  |
 | Cloud services | `AWS, Azure`  |
 | Development Tools | `Git, Docker, Visual Studio, VS Code, Jupyter Notebook, Google Colab`  |
 | Operating Systems | `Mac OS, Windows, Linux`  |
-| Soft Skills | `Problem Solving, Team Player, Continuous Learning, Communication skills, Adaptability`  |
+| Soft Skills | `Problem Solving, Team Player, Continuous Learning, Communication skills, Adaptability`  |--->
 
 
 ### Projects I made
