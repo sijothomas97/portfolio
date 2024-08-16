@@ -46,13 +46,13 @@ Soft Skills I have: `Problem Solving, Team Player, Continuous Learning, Communic
 
 - `Time series modelling in Financial Market`:
   -  Models Used: ARIMA, SARIMA, ARCH, ARDL, and GARCH
-  -  Tech Stack:[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,git,github,visualstudio,windows,stackoverflow)](https://skillicons.dev)
+  <!-- -  Tech Stack:[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,git,github,visualstudio,windows,stackoverflow)](https://skillicons.dev) -->
 
 
 - `Handwritten text reading through Deep Learning`:
   - Models Used: CNN, RNN
-  - Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,git,github,visualstudio,windows,stackoverflow)](https://skillicons.dev)
-Python, OpenCV, NumPy, Pandas, TensorFlow, PyTorch, scikit-learn, Matplotlib, Seaborn
+ <!-- - Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,git,github,visualstudio,windows,stackoverflow)](https://skillicons.dev)
+Python, OpenCV, NumPy, Pandas, TensorFlow, PyTorch, scikit-learn, Matplotlib, Seaborn -->
 
 
 - `Automobile price optimisation using Advanced ML`:
@@ -71,18 +71,18 @@ Python, OpenCV, NumPy, Pandas, TensorFlow, PyTorch, scikit-learn, Matplotlib, Se
 `Wipro Ltd` (Jan 2022 - July 2022)
   - `Python Developer` @ Dell Account
   - Tools Developed: Price Optimisation Tool
-  - Tech stack: [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,mysql,postgres,azure,git,github,kubernetes,docker,postman,visualstudio,windows,stackoverflow)](https://skillicons.dev)
+  <!-- - Tech stack: [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,mysql,postgres,azure,git,github,kubernetes,docker,postman,visualstudio,windows,stackoverflow)](https://skillicons.dev) -->
 
 
 `Infosys Ltd` (Oct 2017 - Dec 2021)
   - `Full Stack Developer` @ AI/ML Solutions Team (Jun 2018 - Dec 2021)
   - Tools Developed: Ticket Triaging, Fraud Detection, Microbots Workflow
-  - Tech Stack: [![My Skills](https://skillicons.dev/icons?i=angular,html,css,ts,py,flask,npm,java,tensorflow,pytorch,matlab,sklearn,mongodb,azure,github,git,docker,postman,anaconda,vscode,stackoverflow,windows)](https://skillicons.dev)
+  <!-- - Tech Stack: [![My Skills](https://skillicons.dev/icons?i=angular,html,css,ts,py,flask,npm,java,tensorflow,pytorch,matlab,sklearn,mongodb,azure,github,git,docker,postman,anaconda,vscode,stackoverflow,windows)](https://skillicons.dev) -->
 
 
   - `Backend Developer` @ Metlife Account(Oct 2017 - May 2018)
   - Tools developed: Data Masking Tool
-  - Tech Stack: [![My Skills](https://skillicons.dev/icons?i=angular,css,html,js,nodejs,spring,npm,git,github,stackoverflow,visualstudio,vscode,windows)](https://skillicons.dev)
+  <!-- - Tech Stack: [![My Skills](https://skillicons.dev/icons?i=angular,css,html,js,nodejs,spring,npm,git,github,stackoverflow,visualstudio,vscode,windows)](https://skillicons.dev) -->
 
 
 ### My Education
