@@ -8,7 +8,7 @@
 
 
 ### Who am I?
-Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" />! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.
 
 <!-- | Core Skills I have | Soft Skills I have|
 | ---  |  ---  |
@@ -19,9 +19,10 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
 
 
 <!--- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | --->
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> ### Technical Skills I Bring
 
-
-| Technical Skills  | I Bring |
+| Category  | Skills |
 | :--- | :---: |
 | Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js&titles=true)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,angular,react&titles=true) |
 | Database | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver,mongodb&titles=true) |
@@ -40,29 +41,31 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
 | Operating Systems | `Mac OS, Windows, Linux`  |
 | Soft Skills | `Problem Solving, Team Player, Continuous Learning, Communication skills, Adaptability`  |--->
 
-
-### Projects I made
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> ### Projects I Made
 
 #### `Financial Market Prediction: Time Series Forecasting`
 
 - A Python-based financial market prediction project utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to select the most effective approach for forecasting. This project demonstrates a strong understanding of statistical modeling, time series analysis, and financial data interpretation.
 - `Key skills:` Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, ARIMA, SARIMA, ARCH, GARCH, ARDL, Data Preprocessing, Model Evaluation.
 - [Link to the project]: https://github.com/sijothomas97/time-series-on-stocks-data
+- https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 #### `Handwritten Text Recognition: Deep Learning`:
 - An advanced deep learning project for recognizing handwritten text using state-of-the-art convolutional neural networks (CNNs). The project focused on building and training models capable of accurately reading and interpreting handwritten text from images, with applications in document digitization and optical character recognition (OCR).
 - `Algorithms used`: ResNet (Residual Networks), AlexNet, VGG (Visual Geometry Group).
 - `Key skills`: Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation.
 - [Link to the project]: https://github.com/sijothomas97/handwritten-text-reading
+- https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 #### `Automobile Price Prediction: Machine Learning Project`
 
 - An advanced machine learning model in Python to predict the prices of used vehicles. The project utilized algorithms such as `Ridge, RandomForestRegressor`, and `GradientBoostingRegressor`, integrating them through pipelines and custom transformers. A `Stacking Regressor ensemble` and `RidgeCV` were employed for enhanced accuracy and robustness.
 - `Key Skills:` Machine Learning, Price Prediction, Python, Ridge, RandomForestRegressor, GradientBoostingRegressor, Pipelines, Stacking, RidgeCV.
+- https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 
-### Professional Experience I hold
-
+### Professional Experience I Have 
 
 #### `Wipro Ltd` (Jan 2022 - July 2022)
   - `Python Developer` @ Dell Account
@@ -76,7 +79,7 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
   - Tools developed: Data Masking Tool
 
 
-### My Education
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Student%20Light%20Skin%20Tone.png" alt="Man Student Light Skin Tone" width="25" height="25" /> ### My Education
 
 
 `MSc, Data Science` | Manchester Metropolitan University (December 2023)
