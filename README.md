@@ -21,6 +21,7 @@ Hi!, I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` special
 <!--- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | --->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Technical Skills I Bring 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" height="500" />
+
 | Category  | Skills |
 | :--- | :---: |
 | Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js&titles=true)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,angular,react&titles=true) |
