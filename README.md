@@ -20,7 +20,7 @@ Hi!, I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` special
 
 <!--- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | --->
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Technical Skills I Bring 
-
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" height="500" />
 | Category  | Skills |
 | :--- | :---: |
 | Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js&titles=true)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,angular,react&titles=true) |
@@ -64,7 +64,7 @@ Hi!, I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` special
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" /> Professional Experience I Have
-
+<img src="https://user-images.githubusercontent.com/74038190/213760697-1dc03683-ba49-44f2-985e-95fd5ec22d3f.gif" width="500" height="400" />
 #### `Wipro Ltd` (Jan 2022 - July 2022)
   - `Python Developer` @ Dell Account
   - Tools Developed: Price Optimisation Tool
