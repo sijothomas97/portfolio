@@ -1,5 +1,5 @@
 # Full Stack Python Developer | ML | NLP | Deep Learning
-
+(https://private-user-images.githubusercontent.com/74038190/241764371-9d0fd0c4-5c7f-4122-b884-64a1e1685d2d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQyNzkxODMsIm5iZiI6MTcyNDI3ODg4MywicGF0aCI6Ii83NDAzODE5MC8yNDE3NjQzNzEtOWQwZmQwYzQtNWM3Zi00MTIyLWI4ODQtNjRhMWUxNjg1ZDJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODIxVDIyMjEyM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE2YThmYThhZGY4ZDUyMmFiODk5NGQyNTcwYTI3ZjM2MDlkZTQxMmI2NmMzN2EyZTRkZTM4ZTljZjFjNGEwZGYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.CycS7GGPMmiPuRui1xxnlWoB3qL2tcWl7IaF4EA6rVE)
 ### Contact Me
 
 - Email: `sijo.thomas0097@gmail.com`
@@ -19,8 +19,7 @@
 
 
 <!--- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | --->
-### Technical Skills I Bring <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
-
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Technical Skills I Bring 
 | Category  | Skills |
 | :--- | :---: |
 | Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js&titles=true)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,angular,react&titles=true) |
@@ -40,7 +39,7 @@
 | Operating Systems | `Mac OS, Windows, Linux`  |
 | Soft Skills | `Problem Solving, Team Player, Continuous Learning, Communication skills, Adaptability`  |--->
 
-### Projects I Made <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Projects I Made
 
 #### `Financial Market Prediction: Time Series Forecasting`
 
@@ -63,7 +62,7 @@
 - https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 
 
-### Professional Experience I Have <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" />
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Professional Experience I Have
 
 #### `Wipro Ltd` (Jan 2022 - July 2022)
   - `Python Developer` @ Dell Account
@@ -77,7 +76,7 @@
   - Tools developed: Data Masking Tool
 
 
-### My Education <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" />
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="25" height="25" /> My Education
 
 
 `MSc, Data Science` | Manchester Metropolitan University (December 2023)
