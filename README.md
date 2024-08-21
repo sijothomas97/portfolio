@@ -23,7 +23,7 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
 
 | Technical Skills  | I Bring |
 | :--- | :---: |
-| Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js,ts,nodejs,angular,react&titles=true) |
+| Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js,ts,nodejs,angular,react&titles=true&perline=5) |
 | Database | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver,mongodb&titles=true) |
 | Data Analysis and Visualisation | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,pandas,numpy,matplotlib,seaborn&titles=true) |<!-- Plotly -->
 | ML & Deep Learning | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,scikitlearn&titles=true) | <!-- Keras,NLTK -->
@@ -43,16 +43,19 @@ Hi! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` speciali
 
 ### Projects I made
 
+#### `Financial Market Prediction: Time Series Forecasting`
 
-- `Time series modelling in Financial Market`:
-  -  Models Used: ARIMA, SARIMA, ARCH, ARDL, and GARCH
-  <!-- -  Tech Stack:[![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,git,github,visualstudio,windows,stackoverflow)](https://skillicons.dev) -->
+- Developed a Python-based financial market prediction project utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to select the most effective approach for forecasting. This project demonstrates a strong understanding of statistical modeling, time series analysis, and financial data interpretation.
+- `Key skills:` Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, ARIMA, SARIMA, ARCH, GARCH, ARDL, Data Preprocessing, Model Evaluation.
+- [Link to the project]: https://github.com/sijothomas97/time-series-on-stocks-data
 
+#### `Handwritten Text Recognition: Deep Learning`:
+- Developed an advanced deep learning project for recognizing handwritten text using state-of-the-art convolutional neural networks (CNNs). The project focused on building and training models capable of accurately reading and interpreting handwritten text from images, with applications in document digitization and optical character recognition (OCR).
+- `Algorithms used`: ResNet (Residual Networks), AlexNet, VGG (Visual Geometry Group).
+- `Key skills`: Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation.
+- [Link to the project]: https://github.com/sijothomas97/handwritten-text-reading
 
-- `Handwritten text reading through Deep Learning`:
-  - Models Used: CNN, RNN
- <!-- - Tech Stack: [![My Skills](https://skillicons.dev/icons?i=py,tensorflow,pytorch,matlab,sklearn,git,github,visualstudio,windows,stackoverflow)](https://skillicons.dev)
-Python, OpenCV, NumPy, Pandas, TensorFlow, PyTorch, scikit-learn, Matplotlib, Seaborn -->
+#### 
 
 
 - `Automobile price optimisation using Advanced ML`:
