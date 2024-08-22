@@ -8,7 +8,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Who am I?
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" height="400" />
-<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.
+<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm `Sijo Thomas`, an experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.
 
 <!-- | Core Skills I have | Soft Skills I have|
 | ---  |  ---  |
@@ -66,14 +66,14 @@
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="400" />
 #### `Wipro Ltd` (Jan 2022 - July 2022)
   - `Python Developer` @ Dell Account
-  - Tools Developed: Price Optimisation Tool
+  - Tools Developed: `Price Optimisation Tool`
 
 #### `Infosys Ltd` (Oct 2017 - Dec 2021)
   - `Full Stack Developer` @ AI/ML Solutions Team (Jun 2018 - Dec 2021)
-  - Tools Developed: Ticket Triaging, Fraud Detection, Microbots Automation
+  - Tools Developed: `Ticket Triaging, Fraud Detection, Microbots Automation`
 
   - `Backend Developer` @ Metlife Account(Oct 2017 - May 2018)
-  - Tools developed: Data Masking Tool
+  - Tools developed: `Data Masking Tool`
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> My Education
