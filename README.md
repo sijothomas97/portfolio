@@ -8,7 +8,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Who am I?
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" height="400" />
-<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">an experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.</span>
+<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">An experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.</span>
 
 <!-- | Core Skills I have | Soft Skills I have|
 | ---  |  ---  |
@@ -43,24 +43,24 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Projects I Made
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="400" />
+<div style="text-align:justify;display:inline-block;">
 #### `Financial Market Prediction: Time Series Forecasting`
-
-- A <span style="text-align:justify;display:inline-block;">Python-based financial market prediction project utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to select the most effective approach for forecasting. This project demonstrates a strong understanding of statistical modeling, time series analysis, and financial data interpretation.</span>
-- `Key skills:` <span style="text-align:justify;display:inline-block;">Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, ARIMA, SARIMA, ARCH, GARCH, ARDL, Data Preprocessing, Model Evaluation.</span>
+- A Python-based financial market prediction project utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to select the most effective approach for forecasting. This project demonstrates a strong understanding of statistical modeling, time series analysis, and financial data interpretation.
+- `Key skills:` Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, ARIMA, SARIMA, ARCH, GARCH, ARDL, Data Preprocessing, Model Evaluation.
 - `Check it out on:` [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/time-series-on-stocks-data)
 
 #### `Handwritten Text Recognition: Deep Learning`:
-- An <span style="text-align:justify;display:inline-block;">advanced deep learning project for recognizing handwritten text using state-of-the-art convolutional neural networks (CNNs). The project focused on building and training models capable of accurately reading and interpreting handwritten text from images, with applications in document digitization and optical character recognition (OCR).</span>
-- `Algorithms used`: <span style="text-align:justify;display:inline-block;">ResNet (Residual Networks), AlexNet, VGG (Visual Geometry Group).</span>
-- `Key skills`: <span style="text-align:justify;display:inline-block;">Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation.</span>
+- An advanced deep learning project for recognizing handwritten text using state-of-the-art convolutional neural networks (CNNs). The project focused on building and training models capable of accurately reading and interpreting handwritten text from images, with applications in document digitization and optical character recognition (OCR).</span>
+- `Algorithms used`: <span style="text-align:justify;display:inline-block;">ResNet (Residual Networks), AlexNet, VGG (Visual Geometry Group).
+- `Key skills`: <span style="text-align:justify;display:inline-block;">Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation.
 - `Check it out on:` [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/handwritten-text-reading)
 
 #### `Automobile Price Prediction: Machine Learning Project`
 
-- An <span style="text-align:justify;display:inline-block;">advanced machine learning model in Python to predict the prices of used vehicles. The project utilized algorithms such as `Ridge, RandomForestRegressor`, and `GradientBoostingRegressor`, integrating them through pipelines and custom transformers. A `Stacking Regressor ensemble` and `RidgeCV` were employed for enhanced accuracy and robustness.</span>
-- `Key Skills:` <span style="text-align:justify;display:inline-block;">Machine Learning, Price Prediction, Python, Ridge, RandomForestRegressor, GradientBoostingRegressor, Pipelines, Stacking, RidgeCV.</span>
+- An advanced machine learning model in Python to predict the prices of used vehicles. The project utilized algorithms such as `Ridge, RandomForestRegressor`, and `GradientBoostingRegressor`, integrating them through pipelines and custom transformers. A `Stacking Regressor ensemble` and `RidgeCV` were employed for enhanced accuracy and robustness.
+- `Key Skills:` Machine Learning, Price Prediction, Python, Ridge, RandomForestRegressor, GradientBoostingRegressor, Pipelines, Stacking, RidgeCV.
 - `Check it out on:` [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/adv-ml-car-price-prediction)
-
+</div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" /> Professional Experience I Have
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="400" />
