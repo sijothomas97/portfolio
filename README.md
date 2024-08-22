@@ -8,7 +8,7 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Who am I?
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" height="400" />
-<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" />! I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.
+<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm Sijo Thomas, an experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.
 
 <!-- | Core Skills I have | Soft Skills I have|
 | ---  |  ---  |
