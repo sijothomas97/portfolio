@@ -7,8 +7,8 @@
 - Phone: `+44 7767990251`
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Who am I?
-<img src="/assets/img/about-me.gif" width="500" height="400" />
-<img src="/assets/img/hi.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">An experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.</span>
+<img src="https://github.com/sijothomas97/portfolio/blob/main/assets/img/about-me.gif" width="500" height="400" />
+<img src="https://github.com/sijothomas97/portfolio/blob/main/assets/img/hi.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">An experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.</span>
 
 <!-- | Core Skills I have | Soft Skills I have|
 | ---  |  ---  |
@@ -20,7 +20,7 @@
 
 <!--- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | --->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="30" height="30" /> Technical Skills I Bring 
-<img src="/assets/img/skills.gif" width="500" height="500" />
+<img src="https://github.com/sijothomas97/portfolio/blob/main/assets/img/skills.gif" width="500" height="500" />
 
 | Category  | Skills |
 | :--- | :---: |
@@ -44,7 +44,7 @@
 <p style="text-align:justify;display:inline-block;">--->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Projects I Made
-<img src="/assets/img/personal-projects.gif" width="500" height="450" />
+<img src="https://github.com/sijothomas97/portfolio/blob/main/assets/img/personal-projects.gif" width="500" height="450" />
 
 #### `Financial Market Prediction: Time Series Forecasting`
 - A Python-based financial market prediction utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to select the most effective approach for forecasting. This project demonstrates statistical modeling, time series analysis, and financial data interpretation.
@@ -65,7 +65,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> Professional Experience I Have
-<img src="/assets/img/project-experience.gif" width="500" height="400" />
+<img src="https://github.com/sijothomas97/portfolio/blob/main/assets/img/project-experience.gif" width="500" height="400" />
 #### `Wipro Ltd` (Jan 2022 - July 2022)
   - `Python Developer` @ Dell Account
   - Tools Developed: `Price Optimisation Tool`
@@ -79,7 +79,7 @@
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> My Education
-<img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500" height="300" />
+<img src="https://github.com/sijothomas97/portfolio/blob/main/assets/img/education.gif" width="500" height="300" />
 
 `MSc, Data Science` | Manchester Metropolitan University (December 2023)
 
