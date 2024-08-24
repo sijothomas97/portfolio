@@ -1,6 +1,6 @@
 # Full Stack Python Developer (ML, NLP & Deep Learning)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone%20Receiver.png" alt="Telephone Receiver" width="30" height="30" /> Contact Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> Contact Me
 
 - Email: `sijo.thomas0097@gmail.com`
 - LinkedIn: `https://www.linkedin.com/in/sijothomas1/`
@@ -19,7 +19,7 @@
 
 
 <!--- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | --->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> Technical Skills I Bring 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mirror%20Ball.png" alt="Mirror Ball" width="30" height="30" /> Technical Skills I Bring 
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" height="500" />
 
 | Category  | Skills |
@@ -47,12 +47,12 @@
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="400" />
 
 #### `Financial Market Prediction: Time Series Forecasting`
-- A Python-based financial market prediction project utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to select the most effective approach for forecasting. This project demonstrates a strong understanding of statistical modeling, time series analysis, and financial data interpretation.
+- A Python-based financial market prediction utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to select the most effective approach for forecasting. This project demonstrates statistical modeling, time series analysis, and financial data interpretation.
 - `Key skills:` Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, ARIMA, SARIMA, ARCH, GARCH, ARDL, Data Preprocessing, Model Evaluation.<br/><br/>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/time-series-on-stocks-data)
 
 #### `Handwritten Text Recognition: Deep Learning`:
-- An advanced deep learning project for recognizing handwritten text using state-of-the-art convolutional neural networks (CNNs). The project focused on building and training models capable of accurately reading and interpreting handwritten text from images, with applications in document digitization and optical character recognition (OCR).</span>
+- An advanced deep learning project for recognizing handwritten text using state-of-the-art convolutional neural networks (CNNs). The project focused on building and training models capable of accurately reading and interpreting handwritten text from images, with applications in document digitization and optical character recognition (OCR).
 - `Algorithms used`: ResNet (Residual Networks), AlexNet, VGG (Visual Geometry Group).
 - `Key skills`: Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation.<br/><br/>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/handwritten-text-reading)
@@ -64,7 +64,7 @@
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/adv-ml-car-price-prediction)
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="30" height="30" /> Professional Experience I Have
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> Professional Experience I Have
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500" height="400" />
 #### `Wipro Ltd` (Jan 2022 - July 2022)
   - `Python Developer` @ Dell Account
