@@ -2,7 +2,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> Contact Me
 
-[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" height="30" />](https://www.linkedin.com/in/sijothomas1/) [<img src="https://cdn.dribbble.com/users/87229/screenshots/2190376/media/08c06bfc511323d44352b638d32cbff3.gif" width="30" height="30" />](sijo.thomas0097@gmail.com)<img src="https://cdn.dribbble.com/users/3191392/screenshots/6778066/dribbble_1.gif" width="30" height="30" /> `+44 7767990251`
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png" width="30" height="30" />](https://www.linkedin.com/in/sijothomas1/) [<img src="https://as2.ftcdn.net/v2/jpg/02/50/30/59/1000_F_250305943_sDC6la1N1fDl3bLgfLxOkQwItIodsdMb.jpg" width="30" height="30" />](https://github.com/sijothomas97)[<img src="https://img.freepik.com/premium-vector/mail-simple-icon-white-mail-icon-black-circle-vector-illustration-stock-image_797523-1729.jpg?w=1380" width="30" height="30" />](sijo.thomas0097@gmail.com)<img src="https://icons.veryicon.com/png/o/miscellaneous/yunrenui-original-ui-of-fool-cloud/phone-circle.png" width="30" height="30" /> `+44 7767990251`
 <!--- Email: `sijo.thomas0097@gmail.com`
 - LinkedIn: `https://www.linkedin.com/in/sijothomas1/`
 - Phone: `+44 7767990251`-->
