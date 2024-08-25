@@ -2,9 +2,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> Contact Me
 
-- Email: `sijo.thomas0097@gmail.com`
+[<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="30" height="30" />](https://www.linkedin.com/in/sijothomas1/) [<img src="https://cdn.dribbble.com/users/87229/screenshots/2190376/media/08c06bfc511323d44352b638d32cbff3.gif" width="30" height="30" />](sijo.thomas0097@gmail.com)<img src="https://cdn.dribbble.com/users/3191392/screenshots/6778066/dribbble_1.gif" width="30" height="30" /> `+44 7767990251`
+<!--- Email: `sijo.thomas0097@gmail.com`
 - LinkedIn: `https://www.linkedin.com/in/sijothomas1/`
-- Phone: `+44 7767990251`
+- Phone: `+44 7767990251`-->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Who am I?
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" height="400" />
@@ -24,8 +25,7 @@
 
 | Category  | Skills |
 | :--- | :---: |
-| Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js&titles=true)
-  ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,angular,react&titles=true) |
+| Languages & Frameworks | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=py,flask,cs,dotnet,js&titles=true)![My Skills](https://go-skill-icons.vercel.app/api/icons?i=ts,nodejs,angular,react&titles=true) |
 | Database | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlserver,mongodb&titles=true) |
 | Data Analysis and Visualisation | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=excel,pandas,numpy,matplotlib,seaborn&titles=true) |<!-- Plotly -->
 | ML & Deep Learning | ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=tensorflow,pytorch,scikitlearn&titles=true) | <!-- Keras,NLTK -->
