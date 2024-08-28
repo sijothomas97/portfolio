@@ -2,7 +2,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> Contact Me
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png" width="30" height="30" />](https://www.linkedin.com/in/sijothomas1/) [<img src="https://as2.ftcdn.net/v2/jpg/02/50/30/59/1000_F_250305943_sDC6la1N1fDl3bLgfLxOkQwItIodsdMb.jpg" width="30" height="30" />](https://github.com/sijothomas97)[<img src="https://img.freepik.com/premium-vector/mail-simple-icon-white-mail-icon-black-circle-vector-illustration-stock-image_797523-1729.jpg?w=1380" width="30" height="30" />](sijo.thomas0097@gmail.com)<img src="https://icons.veryicon.com/png/o/miscellaneous/yunrenui-original-ui-of-fool-cloud/phone-circle.png" width="30" height="30" /> `+44 7767990251`
+[<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png" width="30" height="30" />](https://www.linkedin.com/in/sijothomas1/) [<img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" width="30" height="30" />](https://github.com/sijothomas97)[<img src="https://img.freepik.com/premium-vector/mail-simple-icon-white-mail-icon-black-circle-vector-illustration-stock-image_797523-1729.jpg?w=1380" width="35" height="35" />](sijo.thomas0097@gmail.com)<img src="https://icons.veryicon.com/png/o/miscellaneous/yunrenui-original-ui-of-fool-cloud/phone-circle.png" width="30" height="30" /> `+44 7767990251`
 <!--- Email: `sijo.thomas0097@gmail.com`
 - LinkedIn: `https://www.linkedin.com/in/sijothomas1/`
 - Phone: `+44 7767990251`-->
