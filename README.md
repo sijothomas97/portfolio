@@ -1,4 +1,5 @@
-# Full Stack Python Developer (ML, NLP & Deep Learning)
+# `Full Stack Python Developer`
+## `ML | NLP | Deep Learning`
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> `Contact Me`
 
