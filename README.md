@@ -3,7 +3,7 @@
 
 
 
-<!-- Contact me section -->
+<br/><!-- Contact me section -->
 
 
 
@@ -16,7 +16,7 @@
 
 
 
-<br/><br/><!-- About me section -->
+<br/><!-- About me section -->
 
 
 
