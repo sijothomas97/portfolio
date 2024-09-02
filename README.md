@@ -1,12 +1,24 @@
 # `Full Stack Python Developer`
 ## `ML | NLP | Deep Learning`
 
+
+
+<!-- Contact me section -->
+
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> `Contact Me`
 
 <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-1024.png" width="30" height="30" />[`linkedin.com/in/sijothomas97/`](https://www.linkedin.com/in/sijothomas97/)<br/>
 <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/social_media_logo_github-1024.png" width="30" height="30" />[`github.com/sijothomas97`](https://github.com/sijothomas97)<br/>
 <img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/mail_email_envelope_send_message-1024.png" width="30" height="30" /> [`sijo.thomas0097@gmail.com`](mailto:sijo.thomas0097@gmail.com)<br/>
 <img src="https://cdn3.iconfinder.com/data/icons/black-white-social-media/32/logo_social_media_phone-2-1024.png" width="30" height="30" /> [`+44 7767990251`](tel:+44 7767990251)
+
+
+
+<!-- About me section -->
+
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> `Who am I?`
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" height="400" />
@@ -18,6 +30,11 @@
 | `Backend, API & Frontend Development` | `Team Player`  |
 | `Database Design` | `Continuous Learning`  |  `Communication skills` |
 | `NLP, Machine Learning & Deep Learning`  |  `Adaptability`  | -->
+
+
+
+<!-- Skills section -->
+
 
 
 <!--- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | --->
@@ -44,6 +61,12 @@
 | Soft Skills | `Problem Solving, Team Player, Continuous Learning, Communication skills, Adaptability`  |
 <p style="text-align:justify;display:inline-block;">--->
 
+
+
+<!-- Projects section -->
+
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> `Projects I Made`
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" height="350" />
 
@@ -65,6 +88,11 @@
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/adv-ml-car-price-prediction)
 
 
+
+<!-- Experiance section -->
+
+
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> `Professional Experience I Have`
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="400" />
 #### `Wipro Ltd` (Jan 2022 - July 2022)
@@ -77,6 +105,11 @@
 
   - `Backend Developer` @ Metlife Account(Oct 2017 - May 2018)
   - Tools developed: `Data Masking Tool`
+
+
+
+<!-- Education section -->
+
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> `My Education`
