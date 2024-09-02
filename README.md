@@ -16,7 +16,7 @@
 
 
 
-<!-- About me section -->
+<br/><br/><!-- About me section -->
 
 
 
@@ -33,7 +33,7 @@
 
 
 
-<!-- Skills section -->
+<br/><br/><!-- Skills section -->
 
 
 
@@ -63,7 +63,7 @@
 
 
 
-<!-- Projects section -->
+<br/><br/><!-- Projects section -->
 
 
 
@@ -89,7 +89,7 @@
 
 
 
-<!-- Experiance section -->
+<br/><br/><!-- Experiance section -->
 
 
 
@@ -108,7 +108,7 @@
 
 
 
-<!-- Education section -->
+<br/><br/><!-- Education section -->
 
 
 
