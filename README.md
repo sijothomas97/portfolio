@@ -1,13 +1,13 @@
 # Full Stack Python Developer (ML, NLP & Deep Learning)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> Contact Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> `Contact Me`
 
 <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-1024.png" width="30" height="30" />[`linkedin.com/in/sijothomas97/`](https://www.linkedin.com/in/sijothomas97/)<br/>
 <img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/social_media_logo_github-1024.png" width="30" height="30" />[`github.com/sijothomas97`](https://github.com/sijothomas97)<br/>
 <img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/mail_email_envelope_send_message-1024.png" width="30" height="30" /> [`sijo.thomas0097@gmail.com`](mailto:sijo.thomas0097@gmail.com)<br/>
 <img src="https://cdn3.iconfinder.com/data/icons/black-white-social-media/32/logo_social_media_phone-2-1024.png" width="30" height="30" /> [`+44 7767990251`](tel:+44 7767990251)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Who am I?
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> `Who am I?`
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" height="400" />
 <img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">An experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.</span>
 
@@ -20,7 +20,7 @@
 
 
 <!--- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | --->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="30" height="30" /> Technical Skills I Bring 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Flying%20Saucer.png" alt="Flying Saucer" width="30" height="30" /> `Technical Skills I Bring`
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" height="470" />
 
 | Category  | Skills |
@@ -43,7 +43,7 @@
 | Soft Skills | `Problem Solving, Team Player, Continuous Learning, Communication skills, Adaptability`  |
 <p style="text-align:justify;display:inline-block;">--->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Projects I Made
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> `Projects I Made`
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" height="350" />
 
 #### `Financial Market Prediction: Time Series Forecasting`
@@ -64,7 +64,7 @@
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/adv-ml-car-price-prediction)
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> Professional Experience I Have
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> `Professional Experience I Have`
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="400" />
 #### `Wipro Ltd` (Jan 2022 - July 2022)
   - `Python Developer` @ Dell Account
@@ -78,7 +78,7 @@
   - Tools developed: `Data Masking Tool`
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> My Education
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="30" height="30" /> `My Education`
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500" height="300" />
 
 `MSc, Data Science` | Manchester Metropolitan University (December 2023)
