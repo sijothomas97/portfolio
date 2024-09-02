@@ -33,7 +33,7 @@
 
 
 
-<br/><br/><!-- Skills section -->
+<br/><!-- Skills section -->
 
 
 
@@ -63,7 +63,7 @@
 
 
 
-<br/><br/><!-- Projects section -->
+<br/><!-- Projects section -->
 
 
 
@@ -89,7 +89,7 @@
 
 
 
-<br/><br/><!-- Experiance section -->
+<br/><!-- Experiance section -->
 
 
 
@@ -108,7 +108,7 @@
 
 
 
-<br/><br/><!-- Education section -->
+<br/><!-- Education section -->
 
 
 
