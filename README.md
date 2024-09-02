@@ -2,7 +2,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> Contact Me
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Linkedin_circle_black-512.png" width="30" height="30" />](https://www.linkedin.com/in/sijothomas1/) [<img src="https://w7.pngwing.com/pngs/914/758/png-transparent-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper-banner-thumbnail.png" width="30" height="30" />](https://github.com/sijothomas97)[<img src="https://img.freepik.com/premium-vector/mail-simple-icon-white-mail-icon-black-circle-vector-illustration-stock-image_797523-1729.jpg?w=1380" width="32" height="32" />](sijo.thomas0097@gmail.com)<img src="https://icons.veryicon.com/png/o/miscellaneous/yunrenui-original-ui-of-fool-cloud/phone-circle.png" width="30" height="30" /> `+44 7767990251`
+[<img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-1024.png" width="30" height="30" />](https://www.linkedin.com/in/sijothomas97/) `sijothomas97`
+[<img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/social_media_logo_github-1024.png" width="30" height="30" />](https://github.com/sijothomas97) `sijothomas97`
+<img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/mail_email_envelope_send_message-1024.png" width="30" height="30" /> `sijo.thomas0097@gmail.com`
+<img src="https://cdn3.iconfinder.com/data/icons/black-white-social-media/32/logo_social_media_phone-2-1024.png" width="30" height="30" /> `+44 7767990251`
 <!--- Email: `sijo.thomas0097@gmail.com`
 - LinkedIn: `https://www.linkedin.com/in/sijothomas1/`
 - Phone: `+44 7767990251`-->
@@ -48,19 +51,19 @@
 
 #### `Financial Market Prediction: Time Series Forecasting`
 - A Python-based financial market prediction utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to select the most effective approach for forecasting. This project demonstrates statistical modeling, time series analysis, and financial data interpretation.
-- `Key skills:` Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, ARIMA, SARIMA, ARCH, GARCH, ARDL, Data Preprocessing, Model Evaluation.<br/><br/>
+- `Tech stack:` Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, ARIMA, SARIMA, ARCH, GARCH, ARDL, Data Preprocessing, Model Evaluation.<br/><br/>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/time-series-on-stocks-data)
 
 #### `Handwritten Text Recognition: Deep Learning`:
 - An advanced deep learning project for recognizing handwritten text using state-of-the-art convolutional neural networks (CNNs). The project focused on building and training models capable of accurately reading and interpreting handwritten text from images, with applications in document digitization and optical character recognition (OCR).
 - `Algorithms used`: ResNet (Residual Networks), AlexNet, VGG (Visual Geometry Group).
-- `Key skills`: Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation.<br/><br/>
+- `Tech stack`: Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation.<br/><br/>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/handwritten-text-reading)
 
 #### `Automobile Price Prediction: Machine Learning Project`
 
 - An advanced machine learning model in Python to predict the prices of used vehicles. The project utilized algorithms such as `Ridge, RandomForestRegressor`, and `GradientBoostingRegressor`, integrating them through pipelines and custom transformers. A `Stacking Regressor ensemble` and `RidgeCV` were employed for enhanced accuracy and robustness.
-- `Key Skills:` Machine Learning, Price Prediction, Python, Ridge, RandomForestRegressor, GradientBoostingRegressor, Pipelines, Stacking, RidgeCV.<br/><br/>
+- `Tech stack:` Machine Learning, Price Prediction, Python, Ridge, RandomForestRegressor, GradientBoostingRegressor, Pipelines, Stacking, RidgeCV.<br/><br/>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/adv-ml-car-price-prediction)
 
 
