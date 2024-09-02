@@ -2,13 +2,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> Contact Me
 
-[<img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-1024.png" width="30" height="30" />](https://www.linkedin.com/in/sijothomas97/) `sijothomas97`
-[<img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/social_media_logo_github-1024.png" width="30" height="30" />](https://github.com/sijothomas97) `sijothomas97`
-<img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/mail_email_envelope_send_message-1024.png" width="30" height="30" /> `sijo.thomas0097@gmail.com`
+[<img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-1024.png" width="30" height="30" />] `linkedin.com/in/sijothomas97/`(https://www.linkedin.com/in/sijothomas97/)<br/>
+[<img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/social_media_logo_github-1024.png" width="30" height="30" />]`github.com/sijothomas97`(https://github.com/sijothomas97)<br/>
+<img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/mail_email_envelope_send_message-1024.png" width="30" height="30" /> `sijo.thomas0097@gmail.com`<br/>
 <img src="https://cdn3.iconfinder.com/data/icons/black-white-social-media/32/logo_social_media_phone-2-1024.png" width="30" height="30" /> `+44 7767990251`
-<!--- Email: `sijo.thomas0097@gmail.com`
-- LinkedIn: `https://www.linkedin.com/in/sijothomas1/`
-- Phone: `+44 7767990251`-->
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> Who am I?
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" height="400" />
