@@ -71,8 +71,11 @@
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" height="350" />
 
 #### `Financial Market Prediction: Time Series Forecasting`
-- A Python-based financial market prediction utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to select the most effective approach for forecasting. This project demonstrates statistical modeling, time series analysis, and financial data interpretation.
-- `Tech stack:` Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, ARIMA, SARIMA, ARCH, GARCH, ARDL, Data Preprocessing, Model Evaluation.<br/><br/>
+<ul style="text-align:justify;display:inline-block;">
+<li> A Python-based financial market prediction utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to select the most effective approach for forecasting. This project demonstrates statistical modeling, time series analysis, and financial data interpretation.</li>
+<li> `Tech stack:` Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, ARIMA, SARIMA, ARCH, GARCH, ARDL, Data Preprocessing, Model Evaluation.
+</li>
+</ul><br/><br/>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/time-series-on-stocks-data)
 
 #### `Handwritten Text Recognition: Deep Learning`:
