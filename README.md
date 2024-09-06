@@ -3,7 +3,7 @@
 
 
 
-<!-- Contact me section -->
+<br/><!-- Contact me section -->
 
 
 
