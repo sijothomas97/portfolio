@@ -79,7 +79,7 @@
   </li><li> 
     Tech stack: Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, Data Preprocessing, Model Evaluation.
   </li>
-</ul><br/><br/>
+</ul><br/>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/time-series-on-stocks-data)
 
 #### `Handwritten Text Recognition: Deep Learning`:
@@ -91,7 +91,7 @@
   </li><li>
     Tech stack: Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation.
   </li>
-</ul><br/><br/>
+</ul><br/>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/handwritten-text-reading)
 
 #### `Automobile Price Prediction: Machine Learning Project`
@@ -103,7 +103,7 @@
   </li><li>
     Tech stack: Machine Learning, Price Prediction, Python, Pipelines, Stacking.
   </li>
-</ul><br/><br/>
+</ul><br/>
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/adv-ml-car-price-prediction)
 
