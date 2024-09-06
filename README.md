@@ -3,11 +3,11 @@
 
 
 
-<br/><!-- Contact me section -->
+<!-- Contact me section -->
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> `Contact Me`
+<!-- ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Incoming%20Envelope.png" alt="Incoming Envelope" width="30" height="30" /> `Contact Me` -->
 <div style="text-align: center;">
   <a href="https://www.linkedin.com/in/sijothomas97/"><img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/32/linked_in_online_social_media-1024.png" width="30" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/sijothomas97"><img src="https://cdn2.iconfinder.com/data/icons/black-white-social-media/64/social_media_logo_github-1024.png" width="30" height="30" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
