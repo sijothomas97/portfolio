@@ -1,5 +1,5 @@
 # `Python Developer`
-## `Full Stack | ML | NLP | Deep Learning`
+## `Full Stack | AI | ML | NLP
 
 
 
