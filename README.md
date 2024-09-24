@@ -1,5 +1,5 @@
-# `Full Stack Python Developer`
-## `ML | NLP | Deep Learning`
+# `Python Developer`
+## `Full Stack | ML | NLP | Deep Learning`
 
 
 
