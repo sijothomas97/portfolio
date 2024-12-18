@@ -75,6 +75,19 @@
 </ul><br/>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/time-series-on-stocks-data)
 
+#### `Data Structure Projects: C#`
+<ul style="text-align:justify;display:inline-block;">
+  <li> 
+These comprehensive projects showcase core data structures. This includes a `Dictionary Implementation` with efficient key-value operations, a `Queue System` supporting both linear and circular configurations, and a `Binary Search Tree (BST` capable of dynamic insertion, deletion, and traversal with a focus on self-balancing techniques. Additionally, I created a versatile `Graph Data Structure` supporting both adjacency list and matrix representations, implementing advanced algorithms like BFS & DFS.
+  <li> 
+    Tech stack: C#, .NET, Visual Studio
+  </li>
+</ul><br/>
+`Dictionary`: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/student-enrolment-dictionary.git)
+`Queue`: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/customer-queue-app.git)
+`Binary-search tree`: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/social-network-graph.git)
+`Graph`: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/bst-console-app.git)
+
 #### `Handwritten Text Recognition: Deep Learning`:
 <ul style="text-align:justify;display:inline-block;">
   <li> 
