@@ -109,11 +109,11 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> `Professional Experience I Have...`
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="400" />
 #### `Wipro Ltd` (Jan 2022 - July 2022)
-  - `Python Developer` @ Dell Account
+  - `Senior Developer | Senior System Engineer` @ Dell Account
   - Tools Developed: `Price Optimisation Tool`
 
 #### `Infosys Ltd` (Oct 2017 - Dec 2021)
-  - `Full Stack Developer` @ AI/ML Solutions Team (Jun 2018 - Dec 2021)
+  - `Full Stack Developer | System Engineer` @ AI/ML Solutions Team (Jun 2018 - Dec 2021)
   - Tools Developed: `Ticket Triaging, Fraud Detection, Microbots Automation`
 
   - `Backend Developer` @ Metlife Account(Oct 2017 - May 2018)
