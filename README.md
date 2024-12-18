@@ -86,7 +86,7 @@ These comprehensive projects showcase core data structures. This includes a `Dic
 `Dictionary`: 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/student-enrolment-dictionary.git)
 `Queue`: 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/customer-queue-app.git)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/customer-queue-app.git)<br/>
 `Binary-search tree`: 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/social-network-graph.git)
 `Graph`: 
