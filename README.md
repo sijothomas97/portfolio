@@ -1,5 +1,5 @@
-# `Python Developer`
-## `Full Stack | AI | ML | NLP
+# `Senior | Full Stack Developer`
+## `Python | C# | AI | ML | NLP
 
 
 
@@ -22,14 +22,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> `Who am I?`
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" height="400" />
-<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">An experienced `Python` and `Full-stack developer` specialised in `Machine Learning`, `NLP` and `Deep Learning`. I bring over 4 years of industrial expertise in developing complex web applicaitons, python & AI/ML solutions.</span>
-
-<!-- | Core Skills I have | Soft Skills I have|
-| ---  |  ---  |
-| `Coding & Debugging` | `Problem Solving`  |
-| `Backend, API & Frontend Development` | `Team Player`  |
-| `Database Design` | `Continuous Learning`  |  `Communication skills` |
-| `NLP, Machine Learning & Deep Learning`  |  `Adaptability`  | -->
+<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">An experienced `Python`, `C#` and `Full-stack developer` specialised in `AI`, `Machine Learning`, `NLP` and `Deep Learning`. I bring over 5 years of industrial & Freelance expertise in developing complex web applicaitons, python, C# & AI/ML solutions.</span>
 
 
 
