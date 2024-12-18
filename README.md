@@ -79,7 +79,7 @@
 <ul style="text-align:justify;display:inline-block;">
   <li> 
 These comprehensive projects showcase core data structures. This includes a `Dictionary Implementation` with efficient key-value operations, a `Queue System` supporting both linear and circular configurations, and a `Binary Search Tree (BST` capable of dynamic insertion, deletion, and traversal with a focus on self-balancing techniques. Additionally, I created a versatile `Graph Data Structure` supporting both adjacency list and matrix representations, implementing advanced algorithms like BFS & DFS.
-  <li> 
+  </li><li> 
     Tech stack: C#, .NET, Visual Studio
   </li>
 </ul><br/>
