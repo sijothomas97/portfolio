@@ -83,10 +83,14 @@ These comprehensive projects showcase core data structures. This includes a `Dic
     Tech stack: C#, .NET, Visual Studio
   </li>
 </ul><br/>
-`Dictionary`: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/student-enrolment-dictionary.git)
-`Queue`: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/customer-queue-app.git)
-`Binary-search tree`: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/social-network-graph.git)
-`Graph`: [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/bst-console-app.git)
+`Dictionary`: 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/student-enrolment-dictionary.git)
+`Queue`: 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/customer-queue-app.git)
+`Binary-search tree`: 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/social-network-graph.git)
+`Graph`: 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/bst-console-app.git)
 
 #### `Handwritten Text Recognition: Deep Learning`:
 <ul style="text-align:justify;display:inline-block;">
