@@ -1,5 +1,5 @@
-# `Senior / Full Stack Developer`
-# `Software / Systems Engineer`
+# `Senior/Full Stack Developer`
+# `Software/Systems Engineer`
 ## `AI | ML | NLP`
 
 
