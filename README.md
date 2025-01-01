@@ -1,4 +1,4 @@
-# `Senior / Full Stack Developer | Systems / Software Engineer`
+# `Senior / Full Stack Developer <br/> Systems / Software Engineer`
 ## `AI | ML | NLP`
 
 
