@@ -1,5 +1,5 @@
-# `Senior | Full Stack Developer`
-## `Python | C# | AI | ML | NLP
+# `Senior / Full Stack Developer | Systems / Software Engineer`
+## `AI | ML | NLP`
 
 
 
