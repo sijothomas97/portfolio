@@ -1,4 +1,4 @@
-# `Full-Stack Software/Web Developer | Senior System Engineer`
+# `Full Stack Software/Web Developer | Senior System Engineer`
 ## `Cloud | AI/ML | NLP`
 
 
