@@ -1,5 +1,5 @@
-# `Full Stack Software/Web Developer | Senior System Engineer`
-## `Cloud | AI/ML | NLP`
+# `Software & Web Developer (Full Stack) | Backend & System Engineer`
+## `AWS & Azure | Python, AI, ML & NLP | DevOps & CI/CD`
 
 
 
@@ -126,14 +126,9 @@ These comprehensive projects showcase core data structures. This includes a `Dic
   - Tools Developed: `Price Optimisation Tool`
 
 #### `Infosys Ltd` (Oct 2017 - Dec 2021)
-  - `System Engineer` @ AI/ML Solutions Team (Aug 2020 - Dec 2021)
-  - Tools Developed: `Fraud Detection, Microbots Automation`
-
-  - `Full Stack Engineer` @ AI/ML Solutions Team (Dec 2018 - Jul 2020)
-  - Tools Developed: `Ticket Triaging`
-
-  - `Backend Engineer` @ Metlife Account(Oct 2017 - Nov 2018)
-  - Tools developed: `Data Masking Tool`
+  - `System Engineer` @ AI/ML Solutions Team (Oct 2017 - Dec 2021)
+  - Roles Handled: `Backend Engineer, Full Stack Engineer, Machine Learning Engineer`
+  - Tools Developed: `Fraud Detection Tool, Microservices Automation Tool, AI/ML Ticket Triaging Tool, Data Masking Tool`
 
 
 
