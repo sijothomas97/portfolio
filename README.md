@@ -66,11 +66,11 @@
 #### `Financial Market Prediction: Time Series Forecasting`
 <ul style="text-align:justify;display:inline-block;">
   <li> 
-    A Python-based financial market prediction utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately             predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to         select the most effective approach for forecasting. This project demonstrates statistical modeling, time series analysis, and financial data interpretation. <br/>
-  </li><li> 
-    Algorithms used: `ARIMA, SARIMA, ARCH, GARCH, ARDL`. <br/>
-  </li><li> 
-    Tech stack: `Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, Data Preprocessing, Model Evaluation`.
+    A Python-based financial market prediction utilizing advanced time series forecasting models, including `ARIMA, SARIMA, ARCH, ARDL, and GARCH`, focusing on accurately             predicting future market trends by analyzing historical financial data. Each model was implemented and optimized for performance, with key metrics and results compared to         select the most effective approach for forecasting. This project demonstrates statistical modeling, time series analysis, and financial data interpretation.
+  </li><br/><li> 
+    Algorithms used: ARIMA, SARIMA, ARCH, GARCH, ARDL.
+  </li><br/><li> 
+    Tech stack: Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, Data Preprocessing, Model Evaluation.
   </li>
 </ul>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/time-series-on-stocks-data)
@@ -78,9 +78,9 @@
 #### `Data Structure Projects: C#`
 <ul style="text-align:justify;display:inline-block;">
   <li> 
-These comprehensive projects showcase core data structures. This includes a `Dictionary Implementation` with efficient key-value operations, a `Queue System` supporting both linear and circular configurations, and a `Binary Search Tree (BST` capable of dynamic insertion, deletion, and traversal with a focus on self-balancing techniques. Additionally, I created a versatile `Graph Data Structure` supporting both adjacency list and matrix representations, implementing advanced algorithms like BFS & DFS. <br/>
-  </li><li>
-    Tech stack: `C#, .NET, Visual Studio`. <br/>
+These comprehensive projects showcase core data structures. This includes a `Dictionary Implementation` with efficient key-value operations, a `Queue System` supporting both linear and circular configurations, and a `Binary Search Tree (BST` capable of dynamic insertion, deletion, and traversal with a focus on self-balancing techniques. Additionally, I created a versatile `Graph Data Structure` supporting both adjacency list and matrix representations, implementing advanced algorithms like BFS & DFS.
+  </li><br/><li>
+    Tech stack: C#, .NET, Visual Studio.
   </li>
 </ul><br/> 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/student-enrolment-dictionary.git) &nbsp; `Dictionary`<br/>
@@ -91,11 +91,11 @@ These comprehensive projects showcase core data structures. This includes a `Dic
 #### `Handwritten Text Recognition: Deep Learning`:
 <ul style="text-align:justify;display:inline-block;">
   <li> 
-    An advanced deep learning project for recognizing handwritten text using state-of-the-art convolutional neural networks (CNNs). The project focused on building and training       models capable of accurately reading and interpreting handwritten text from images, with applications in document digitization and optical character recognition (OCR). <br/>
-  </li><li>
-    Algorithms used: `ResNet (Residual Networks), AlexNet, VGG (Visual Geometry Group)`. <br/>
-  </li><li><br/>
-    Tech stack: `Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation`. <br/>
+    An advanced deep learning project for recognizing handwritten text using state-of-the-art convolutional neural networks (CNNs). The project focused on building and training       models capable of accurately reading and interpreting handwritten text from images, with applications in document digitization and optical character recognition (OCR).
+  </li><br/><li>
+    Algorithms used: ResNet (Residual Networks), AlexNet, VGG (Visual Geometry Group).
+  </li><br/><li>
+    Tech stack: `Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation`.
   </li>
 </ul><br/>
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/handwritten-text-reading)
@@ -105,10 +105,10 @@ These comprehensive projects showcase core data structures. This includes a `Dic
   <li>
     An advanced machine learning model in Python to predict the prices of used vehicles. The project utilized algorithms such as Ridge, RandomForestRegressor, and                     GradientBoostingRegressor, integrating them through pipelines and custom transformers. A Stacking Regressor ensemble and RidgeCV were employed for enhanced accuracy and           robustness. <br/>
   </li><li>
-    Algorithms used: `Ridge, RandomForestRegressor, GradientBoostingRegressor, RidgeCV`. <br/>
-  </li><li>
-    Tech stack: `Machine Learning, Price Prediction, Python, Pipelines, Stacking`.
-  </li><br/>
+    Algorithms used: Ridge, RandomForestRegressor, GradientBoostingRegressor, RidgeCV.
+  </li><br/><li>
+    Tech stack: Machine Learning, Price Prediction, Python, Pipelines, Stacking.
+  </li>
 </ul><br/>
 
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/adv-ml-car-price-prediction)
