@@ -22,7 +22,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> `Who am I?`
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" height="400" />
-<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">An experienced `Full-stack software/web developer` specialised in `Cloud`, `AI/ML`, and `NLP`. I bring over 5 years of industrial expertise in developing complex software/web applicaitons and tools.</span>
+<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">An experienced `Full-stack software/web developer` and `Backend/System Engineer` specialised in `Python (Django & Flask)`, `Cloud (AWS & Azure)`, `AI/ML`, and `NLP`. I bring over 4 years of industrial expertise in developing complex software/web applicaitons and tools.</span>
 
 
 
@@ -73,7 +73,7 @@
     Tech stack: Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, Data Preprocessing, Model Evaluation.
   </li>
 </ul>
-&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/time-series-on-stocks-data)
+&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/time-series-on-stocks-data)
 
 #### `Data Structure Projects: C#`
 <ul style="text-align:justify;display:inline-block;">
@@ -83,10 +83,10 @@ These comprehensive projects showcase core data structures. This includes a `Dic
     Tech stack: C#, .NET, Visual Studio.
   </li>
 </ul><br/> 
-&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/student-enrolment-dictionary.git) &nbsp; `Dictionary`<br/>
-&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/customer-queue-app.git) &nbsp; `Queue` <br/>
-&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/bst-console-app.git) &nbsp; `Binary-search tree`<br/>
-&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/social-network-graph.git) &nbsp; `Graph`
+&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/student-enrolment-dictionary.git) &nbsp; `Dictionary`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/customer-queue-app.git) &nbsp; `Queue` <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/bst-console-app.git) &nbsp; `Binary-search tree`<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/social-network-graph.git) &nbsp; `Graph`
 
 #### `Handwritten Text Recognition: Deep Learning`:
 <ul style="text-align:justify;display:inline-block;">
@@ -98,7 +98,7 @@ These comprehensive projects showcase core data structures. This includes a `Dic
     Tech stack: `Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation`.
   </li>
 </ul><br/>
-&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/handwritten-text-reading)
+&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/handwritten-text-reading)
 
 #### `Automobile Price Prediction: Machine Learning Project`
 <ul style="text-align:justify;display:inline-block;">
@@ -111,7 +111,7 @@ These comprehensive projects showcase core data structures. This includes a `Dic
   </li>
 </ul><br/>
 
-&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/adv-ml-car-price-prediction)
+&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/adv-ml-car-price-prediction)
 
 
 
