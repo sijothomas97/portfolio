@@ -1,5 +1,5 @@
 # `Software & Web Developer (Full Stack) | Backend & System Engineer`
-## `AWS & Azure | Python, AI, ML & NLP | DevOps & CI/CD`
+## `Python, AI, ML & NLP | AWS & Azure | DevOps & CI/CD`
 
 
 
