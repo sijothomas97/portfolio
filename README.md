@@ -73,7 +73,7 @@
     Tech stack: Time Series Analysis, Financial Modeling, Statistical Forecasting, Python, Data Preprocessing, Model Evaluation.
   </li>
 </ul>
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/time-series-on-stocks-data)
+&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/time-series-on-stocks-data)
 
 #### `Data Structure Projects: C#`
 <ul style="text-align:justify;display:inline-block;">
@@ -83,10 +83,10 @@ These comprehensive projects showcase core data structures. This includes a `Dic
     Tech stack: C#, .NET, Visual Studio.
   </li>
 </ul><br/> 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/student-enrolment-dictionary.git) &nbsp; `Dictionary`<br/>
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/customer-queue-app.git) &nbsp; `Queue` <br/>
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/bst-console-app.git) &nbsp; `Binary-search tree`<br/>
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/social-network-graph.git) &nbsp; `Graph`
+&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/student-enrolment-dictionary.git) &nbsp; `Dictionary`<br/>
+&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/customer-queue-app.git) &nbsp; `Queue` <br/>
+&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/bst-console-app.git) &nbsp; `Binary-search tree`<br/>
+&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>](https://github.com/sijothomas97/social-network-graph.git) &nbsp; `Graph`
 
 #### `Handwritten Text Recognition: Deep Learning`:
 <ul style="text-align:justify;display:inline-block;">
@@ -98,7 +98,7 @@ These comprehensive projects showcase core data structures. This includes a `Dic
     Tech stack: `Deep Learning, Computer Vision, Convolutional Neural Networks, Python, ResNet, AlexNet, VGG, Data Preprocessing, Model Training and Evaluation`.
   </li>
 </ul><br/>
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/handwritten-text-reading)
+&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/handwritten-text-reading)
 
 #### `Automobile Price Prediction: Machine Learning Project`
 <ul style="text-align:justify;display:inline-block;">
@@ -111,7 +111,7 @@ These comprehensive projects showcase core data structures. This includes a `Dic
   </li>
 </ul><br/>
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/adv-ml-car-price-prediction)
+&nbsp;[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/sijothomas97/adv-ml-car-price-prediction)
 
 
 
