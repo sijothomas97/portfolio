@@ -126,6 +126,10 @@ These comprehensive projects showcase core data structures. This includes a `Dic
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> `Professional Experience I Have...`
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="400" />
+#### `Mentrose` (Apr 2024 - ...)
+  - `Python Engineer | Web App Developer`
+  - Tools Developed: `E-commerce Web Applications`
+
 #### `Wipro Ltd` (Jan 2022 - July 2022)
   - `Senior Developer | Senior System Engineer` @ Dell Account
   - Tools Developed: `Price Optimisation Tool`
