@@ -22,7 +22,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> `Who am I?`
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" height="400" />
-<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">An experienced `Full-stack software/web developer` and `Backend/System Engineer` specialised in `Python (Django & Flask)`, `Cloud (AWS & Azure)`, `AI/ML`, and `NLP`. I bring over 4 years of industrial expertise in developing complex software/web applicaitons and tools.</span>
+<img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">An experienced `Full-stack software/web/AIML developer` and `Backend/System Engineer` specialised in `Python (Django & Flask)`, `Cloud (AWS & Azure)`, `AI/ML`, and `NLP`. I bring over 4 years of industrial expertise in developing complex software/web applicaitons and tools.</span>
 
 
 
