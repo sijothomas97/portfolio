@@ -1,5 +1,5 @@
-# `Python Engineer - Flask/Django & AI/ML Expert`
-## `Software | Web Application | Backend Developer`
+# `AI / ML Engineer`
+## `Python | RAG | GenAI | AWS`
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> `Who am I?`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> `About`
 <img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" height="400" />
 <img src="https://cdn.dribbble.com/users/188350/screenshots/3476128/media/5e00cd567d2f6a6f2b77b975da9d5ae9.gif" width="70" height="50" /> I'm `Sijo Thomas`, <span style="text-align:justify;display:inline-block;">An experienced `Full-stack software/web/AIML developer` and `Backend/System Engineer` specialised in `Python (Django & Flask)`, `AI/ML`, `Cloud (AWS)`, and `NLP`. I bring over 5 years of industrial expertise in developing complex software/web applications/solutions and tools.</span>
 
@@ -31,7 +31,7 @@
 
 
 <!--- | Core Skills | `Coding & Debugging, Backend, API & Frontend Development, Database Design, NLP, Machine Learning & Deep Learning` | --->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="30" height="30" /> `Technical Skills I Bring...`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Desktop Computer" width="30" height="30" /> `Technical Skills`
 <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500" height="470" />
 
 | Category  | Skills |
@@ -60,7 +60,7 @@
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="30" height="30" /> `Projects I Made...`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20Index%20Dividers.png" alt="Card Index Dividers" width="30" height="30" /> `Projects`
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="500" height="350" />
 
 #### `Financial Market Prediction: Time Series Forecasting`
@@ -124,18 +124,22 @@ These comprehensive projects showcase core data structures. This includes a `Dic
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> `Professional Experience I Have...`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> `Professional Experience`
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="400" />
-#### `Mentrose` (Apr 2024 - ...)
-  - `Python Engineer | Web App Developer`
+#### `Croner-i` (Jul 2025 - Present)
+  - `Machine Learning Engineer | AWS Developer`
+  - Tools Developed: `GenAI & RAG Systems`
+
+#### `Mentrose` (Apr 2024 - Mar 2025)
+  - `Full Stack ML Engineer | Web App Developer`
   - Tools Developed: `E-commerce Web Applications`
 
 #### `Wipro Ltd` (Jan 2022 - July 2022)
-  - `Senior Developer | Senior System Engineer` @ Dell Account
+  - `Backend Engineer | Python, ML` @ Dell Account
   - Tools Developed: `Price Optimisation Tool`
 
 #### `Infosys Ltd` (Oct 2017 - Dec 2021)
-  - `System Engineer` @ AI/ML Solutions Team (Oct 2017 - Dec 2021)
+  - `Full Stack AI / ML Developer` @ AI/ML Solutions Team (Oct 2017 - Dec 2021)
   - Roles Handled: `Backend Engineer, Full Stack Engineer, Machine Learning Engineer`
   - Tools Developed: `Fraud Detection Tool, Microservices Automation Tool, AI/ML Ticket Triaging Tool, Data Masking Tool`
 
