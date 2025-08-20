@@ -127,7 +127,7 @@ These comprehensive projects showcase core data structures. This includes a `Dic
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Spiral%20Calendar.png" alt="Spiral Calendar" width="30" height="30" /> `Professional Experience`
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500" height="400" />
 #### `Croner-i` (Jul 2025 - Present)
-  - `Machine Learning Engineer | AWS Developer`
+  - `Machine Learning Engineer | AWS`
   - Tools Developed: `GenAI & RAG Systems`
 
 #### `Mentrose` (Apr 2024 - Mar 2025)
@@ -149,7 +149,7 @@ These comprehensive projects showcase core data structures. This includes a `Dic
 
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Black Nib" width="30" height="30" /> `My Education...`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Black%20Nib.png" alt="Black Nib" width="30" height="30" /> `Education`
 <img src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" width="500" height="300" />
 
 `MSc, Data Science` | Manchester Metropolitan University (December 2023)
