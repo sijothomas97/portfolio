@@ -249,8 +249,31 @@ const { title, description } = Astro.props;
 
 ## Git Workflow
 
-- Work on branch `feat/astro-rebuild`
-- Commit after completing each phase
+- Each phase is built on its own feature branch and merged to `main` via PR
+- Branch from `main` after the required dependency phases are merged
 - Commit message format: `feat(phase-N): brief description`
-- Do not push to `main` until the full build is verified
 - Do not force push
+
+### Branch Plan
+
+| Branch | Phase | Merge After |
+|--------|-------|-------------|
+| `feat/phase-0-scaffolding` | Phase 0: Scaffolding | — |
+| `feat/phase-1-layout-nav` | Phase 1: Layout & Nav | Phase 0 |
+| `feat/phase-2-homepage` | Phase 2: Homepage | Phase 1 |
+| `feat/phase-3-content-collections` | Phase 3: Content Collections | Phase 2 |
+| `feat/phase-4-blog` | Phase 4: Blog | Phase 3 |
+| `feat/phase-5-contact` | Phase 5: Contact | Phase 1 |
+| `feat/phase-6-seo-a11y-perf` | Phase 6: SEO/A11y/Perf | Phases 2–5 |
+| `feat/phase-7-deployment` | Phase 7: Deployment | Phase 1 |
+| `feat/phase-8-polish` | Phase 8: Polish | Phase 6 |
+
+### Merge Order
+
+```
+main ← phase-0 ← phase-1 ← phase-2 ← phase-3 ← phase-4
+                         ↖ phase-5 (parallel after phase-1)
+                         ↖ phase-7 (parallel after phase-1)
+              then ← phase-6 (after all pages exist)
+              then ← phase-8 (final pass)
+```
