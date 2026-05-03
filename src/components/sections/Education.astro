@@ -1,0 +1,47 @@
+---
+const entries = [
+  {
+    degree: 'MSc, Data Science',
+    institution: 'Manchester Metropolitan University',
+    year: 'December 2023',
+    note: 'Research focus on machine learning and statistical modelling',
+  },
+  {
+    degree: 'Bachelor of Computer Application (BCA)',
+    institution: 'Mahatma Gandhi University',
+    year: 'March 2017',
+  },
+];
+---
+
+<section
+  aria-labelledby="education-heading"
+  class="max-w-6xl mx-auto px-4 md:px-6 py-20 md:py-24"
+>
+  <h2
+    id="education-heading"
+    class="text-3xl font-semibold text-text-primary-light dark:text-text-primary mb-8"
+  >
+    Education
+  </h2>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    {
+      entries.map((e) => (
+        <article class="bg-surface-light dark:bg-surface rounded-xl border border-border-light dark:border-border p-6">
+          <h3 class="text-xl font-semibold text-text-primary-light dark:text-text-primary">
+            {e.degree}
+          </h3>
+          <p class="mt-2 text-text-secondary-light dark:text-text-secondary">
+            {e.institution}
+          </p>
+          <p class="mt-1 text-sm font-mono text-accent-light dark:text-accent">{e.year}</p>
+          {e.note && (
+            <p class="mt-3 text-sm text-text-secondary-light dark:text-text-secondary">
+              {e.note}
+            </p>
+          )}
+        </article>
+      ))
+    }
+  </div>
+</section>

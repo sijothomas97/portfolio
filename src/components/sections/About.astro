@@ -1,0 +1,57 @@
+---
+import { withBase } from '../../utils/links';
+---
+
+<section
+  id="about"
+  aria-labelledby="about-heading"
+  class="max-w-6xl mx-auto px-4 md:px-6 py-20 md:py-24"
+>
+  <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-center">
+    <div class="flex justify-center md:justify-start">
+      <img
+        src={withBase('/images/sijo-thomas.jpeg')}
+        alt="Sijo Thomas, AI/ML Engineer"
+        width="400"
+        height="400"
+        loading="lazy"
+        decoding="async"
+        class="rounded-2xl border border-border-light dark:border-border w-full max-w-[400px] h-auto"
+      />
+    </div>
+
+    <div>
+      <h2
+        id="about-heading"
+        class="text-3xl font-semibold text-text-primary-light dark:text-text-primary mb-6"
+      >
+        About Me
+      </h2>
+      <div class="space-y-5 text-body-lg text-text-secondary-light dark:text-text-secondary">
+        <p>
+          With over five years building AI-driven solutions across enterprise and startup
+          environments, I specialise in turning complex ML models into production-ready systems
+          that deliver measurable business impact.
+        </p>
+        <p>
+          My journey started at Infosys, where I spent four years developing AI/ML tools — from
+          fraud detection engines to intelligent ticket triaging systems — serving clients across
+          financial services and IT operations. At Wipro, I worked on Dell's price optimisation
+          platform, applying machine learning to real-time pricing strategies. I then moved to
+          Mentrose as a Full Stack ML Engineer, building e-commerce applications with integrated
+          ML capabilities.
+        </p>
+        <p>
+          Currently at Croner-i, I architect GenAI and RAG systems on AWS, transforming how
+          compliance teams interact with complex regulatory data. My MSc in Data Science from
+          Manchester Metropolitan University grounds my practical work in rigorous research
+          methodology.
+        </p>
+        <p>
+          I'm passionate about the intersection of AI and real-world problem solving — building
+          systems that don't just work in notebooks, but ship to production and make a difference.
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

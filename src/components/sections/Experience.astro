@@ -1,0 +1,81 @@
+---
+const experiences = [
+  {
+    company: 'Croner-i',
+    role: 'Machine Learning Engineer | AWS',
+    dates: 'Jul 2025 — Present',
+    bullets: [
+      'Architecting GenAI and RAG systems on AWS, enabling intelligent document processing and semantic search across large regulatory datasets',
+      'Building production LLM pipelines using LangChain, vector databases, and AWS services (Bedrock, Lambda, S3) for compliance teams',
+      'Designing retrieval-augmented generation workflows that transform how users interact with complex regulatory information',
+    ],
+  },
+  {
+    company: 'Mentrose',
+    role: 'Full Stack ML Engineer | Web App Developer',
+    dates: 'Apr 2024 — Mar 2025',
+    bullets: [
+      'Developed end-to-end e-commerce web applications integrating ML-powered features including recommendation engines and predictive analytics',
+      'Built full-stack solutions combining Python/Flask backends with modern frontend frameworks, deployed to cloud infrastructure',
+      'Implemented data pipelines for real-time product analytics and customer behaviour modelling',
+    ],
+  },
+  {
+    company: 'Wipro Ltd',
+    role: 'Backend Engineer | Python, ML — Dell Account',
+    dates: 'Jan 2022 — Jul 2022',
+    bullets: [
+      "Contributed to Dell's price optimisation platform, applying machine learning models to dynamic pricing strategies across product lines",
+      'Built Python-based backend services for data ingestion, model inference, and pricing API endpoints',
+      'Collaborated with cross-functional teams to translate business pricing rules into ML model features',
+    ],
+  },
+  {
+    company: 'Infosys Ltd',
+    role: 'Full Stack AI/ML Developer — AI/ML Solutions Team',
+    dates: 'Oct 2017 — Dec 2021',
+    bullets: [
+      'Fraud Detection Tool: developed ML-based anomaly detection system for identifying fraudulent transactions in financial services, processing high-volume transaction data in near real-time',
+      'Microservices Automation Tool: built automation pipelines for microservice deployment and monitoring, reducing manual operational overhead',
+      'AI/ML Ticket Triaging Tool: created an intelligent ticket classification system that automatically categorised and routed support tickets across 50+ service categories',
+      'Data Masking Tool: implemented automated data anonymisation solution for PII protection across multiple client datasets',
+    ],
+  },
+];
+---
+
+<section
+  aria-labelledby="experience-heading"
+  class="max-w-6xl mx-auto px-4 md:px-6 py-20 md:py-24"
+>
+  <h2
+    id="experience-heading"
+    class="text-3xl font-semibold text-text-primary-light dark:text-text-primary mb-12"
+  >
+    Professional Experience
+  </h2>
+
+  <ol class="space-y-10">
+    {
+      experiences.map((entry) => (
+        <li class="relative pl-8 border-l-2 border-border-light dark:border-border">
+          <span
+            aria-hidden="true"
+            class="absolute -left-[9px] top-1 w-4 h-4 rounded-full bg-accent-light dark:bg-accent border-4 border-primary-light dark:border-primary"
+          />
+          <h3 class="text-xl font-semibold text-text-primary-light dark:text-text-primary">
+            {entry.company}
+          </h3>
+          <p class="mt-1 text-sm font-mono text-accent-light dark:text-accent">
+            {entry.role} | {entry.dates}
+          </p>
+          <ul class="mt-3 space-y-2 text-text-secondary-light dark:text-text-secondary text-body list-disc pl-5 marker:text-accent-light dark:marker:text-accent">
+            {entry.bullets.map((b) => (
+              <li>{b}</li>
+            ))}
+          </ul>
+        </li>
+      ))
+    }
+  </ol>
+</section>
