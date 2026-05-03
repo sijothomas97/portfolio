@@ -1,0 +1,99 @@
+---
+import { withBase } from '../utils/links';
+import ThemeToggle from './ThemeToggle.astro';
+import { Menu } from '@lucide/astro';
+
+const links = [
+  { href: '/', label: 'Home' },
+  { href: '/projects', label: 'Projects' },
+  { href: '/blog', label: 'Blog' },
+  { href: '/contact', label: 'Contact' },
+];
+
+const path = Astro.url.pathname;
+
+function isActive(href: string): boolean {
+  const target = withBase(href).replace(/\/+$/, '') || '/';
+  const current = path.replace(/\/+$/, '') || '/';
+  if (href === '/') return current === target;
+  return current === target || current.startsWith(target + '/');
+}
+---
+
+<header
+  class="fixed top-0 left-0 right-0 z-40 backdrop-blur-md bg-primary-light/80 dark:bg-primary/80 border-b border-border-light dark:border-border"
+>
+  <nav
+    class="max-w-6xl mx-auto px-4 md:px-6 h-16 flex items-center justify-between"
+    aria-label="Primary"
+  >
+    <a
+      href={withBase('/')}
+      class="font-semibold text-[1.0625rem] text-text-primary-light dark:text-text-primary hover:text-accent-light dark:hover:text-accent transition-colors focus:outline-none focus:ring-2 focus:ring-accent rounded"
+    >
+      Sijo Thomas
+    </a>
+
+    <ul class="hidden md:flex items-center gap-8">
+      {
+        links.map((l) => {
+          const active = isActive(l.href);
+          return (
+            <li>
+              <a
+                href={withBase(l.href)}
+                aria-current={active ? 'page' : undefined}
+                class:list={[
+                  'text-[0.9375rem] font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-accent rounded',
+                  active
+                    ? 'text-accent-light dark:text-accent'
+                    : 'text-text-secondary-light dark:text-text-secondary hover:text-accent-light dark:hover:text-accent',
+                ]}
+              >
+                {l.label}
+              </a>
+            </li>
+          );
+        })
+      }
+    </ul>
+
+    <div class="flex items-center gap-1">
+      <ThemeToggle />
+
+      <details class="md:hidden relative">
+        <summary
+          class="list-none cursor-pointer p-2 rounded-md text-text-primary-light dark:text-text-primary hover:text-accent-light dark:hover:text-accent focus:outline-none focus:ring-2 focus:ring-accent"
+          aria-label="Open navigation menu"
+        >
+          <Menu size={22} aria-hidden="true" />
+        </summary>
+        <ul
+          class="absolute right-0 top-full mt-2 min-w-[180px] py-2 rounded-lg border border-border-light dark:border-border bg-primary-light dark:bg-primary shadow-lg shadow-black/10"
+        >
+          {
+            links.map((l) => {
+              const active = isActive(l.href);
+              return (
+                <li>
+                  <a
+                    href={withBase(l.href)}
+                    aria-current={active ? 'page' : undefined}
+                    class:list={[
+                      'block px-4 py-2 text-[0.9375rem] font-medium transition-colors focus:outline-none focus:ring-2 focus:ring-accent focus:ring-inset',
+                      active
+                        ? 'text-accent-light dark:text-accent'
+                        : 'text-text-primary-light dark:text-text-primary hover:text-accent-light dark:hover:text-accent',
+                    ]}
+                  >
+                    {l.label}
+                  </a>
+                </li>
+              );
+            })
+          }
+        </ul>
+      </details>
+    </div>
+  </nav>
+</header>

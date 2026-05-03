@@ -1,19 +1,15 @@
 ---
-import '../styles/global.css';
+import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
-<html lang="en" class="dark">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/portfolio/favicon.svg" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Sijo Thomas — Phase 0 scaffold</title>
-  </head>
-  <body class="bg-primary text-text-primary font-sans min-h-screen flex items-center justify-center">
-    <main class="text-center">
-      <h1 class="text-3xl font-semibold text-accent">Phase 0: scaffold ready</h1>
-      <p class="mt-2 text-text-secondary">Astro 5 + Tailwind v4 wired up. Implementation begins in Phase 1.</p>
-    </main>
-  </body>
-</html>
+<BaseLayout
+  title="Home"
+  description="AI & Machine Learning Engineer specialising in Generative AI, LLM & RAG, AWS, NLP, and Python. 5+ years building production ML systems."
+>
+  <section class="max-w-6xl mx-auto px-4 md:px-6 py-20">
+    <h1 class="text-4xl font-bold tracking-tight">Phase 1 layout shell</h1>
+    <p class="mt-4 text-body-lg text-text-secondary-light dark:text-text-secondary">
+      Header, Footer, ThemeToggle, and BaseLayout are wired up. Homepage sections land in Phase 2.
+    </p>
+  </section>
+</BaseLayout>
