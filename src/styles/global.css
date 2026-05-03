@@ -1,0 +1,45 @@
+@import "tailwindcss";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-primary: #0F172A;
+  --color-primary-light: #FFFFFF;
+  --color-surface: #1E293B;
+  --color-surface-light: #F1F5F9;
+  --color-text-primary: #E2E8F0;
+  --color-text-primary-light: #0F172A;
+  --color-text-secondary: #94A3B8;
+  --color-text-secondary-light: #64748B;
+  --color-accent: #22D3EE;
+  --color-accent-hover: #67E8F9;
+  --color-accent-light: #0891B2;
+  --color-accent-light-hover: #06B6D4;
+  --color-link: #38BDF8;
+  --color-link-light: #0284C7;
+  --color-success: #4ADE80;
+  --color-border: #334155;
+  --color-border-light: #E2E8F0;
+
+  --font-sans: "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, monospace;
+
+  --text-body: 1.0625rem;
+  --text-body--line-height: 1.6;
+  --text-body-lg: 1.125rem;
+  --text-body-lg--line-height: 1.6;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
