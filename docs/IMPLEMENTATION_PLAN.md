@@ -1,34 +1,47 @@
 # Implementation Plan
 
 Phase-by-phase checklist with file paths, dependencies, and verification steps.
+Each phase is built on its own feature branch and merged to `main` via PR.
 
 ---
 
-## Phase Dependencies
+## Phase Summary
+
+| Phase | Branch | What It Adds | Depends On |
+|-------|--------|-------------|------------|
+| 0 | `feat/phase-0-scaffolding` | Empty Astro project, Tailwind config, design tokens, base path helper, image assets | — |
+| 1 | `feat/phase-1-layout-nav` | Shared page shell — sticky header, footer, dark/light toggle, skip-to-content | Phase 0 |
+| 2 | `feat/phase-2-homepage` | 7 homepage sections — Hero, About, Featured Projects, Skills, Experience, Education, Contact CTA | Phase 1 |
+| 3 | `feat/phase-3-content-collections` | Content collection schemas, 4 project markdown files, project index/detail pages, wires FeaturedProjects to real data | Phase 2 |
+| 4 | `feat/phase-4-blog` | 3 blog post markdown files, blog index/detail pages | Phase 3 |
+| 5 | `feat/phase-5-contact` | Contact page with form (Formspree), social links, placeholder resume PDF | Phase 1 |
+| 6 | `feat/phase-6-seo-a11y-perf` | SEO meta/OG tags audit, accessibility audit & fixes, 404 page, robots.txt, sitemap verification | Phases 2–5 |
+| 7 | `feat/phase-7-deployment` | GitHub Actions workflow for auto-deploy to GitHub Pages | Phase 1 |
+| 8 | `feat/phase-8-polish` | Scroll animations, hover effects, responsive tuning, content cross-check, cleanup of old Jekyll files | Phase 6 |
+
+## Phase Dependencies & Merge Order
 
 ```
-Phase 0 (Scaffolding)
-  └── Phase 1 (Layout & Nav)
-        ├── Phase 2 (Homepage)
-        │     └── Phase 3 (Content Collections) ← wires FeaturedProjects to collection
-        ├── Phase 4 (Blog)
-        ├── Phase 5 (Contact)
-        └── Phase 7 (Deployment) ← can run early for continuous deploy
-              └── Phase 6 (SEO/A11y/Perf) ← after all pages exist
-                    └── Phase 8 (Polish) ← final pass
+main ← phase-0 ← phase-1 ← phase-2 ← phase-3 ← phase-4
+                         ↖ phase-5 (parallel after phase-1)
+                         ↖ phase-7 (parallel after phase-1)
+              then ← phase-6 (after all pages merged)
+              then ← phase-8 (final pass)
 ```
 
-**Rule**: Complete each phase fully and verify before starting the next. Commit after each phase.
+**Rule**: Complete each phase fully and verify before merging. Branch from `main` after dependency phases are merged.
 
 ---
 
 ## Phase 0: Project Scaffolding
 
-**Branch**: Create `feat/astro-rebuild` from `main`
+> Empty Astro 5 project with Tailwind CSS 4 configured, all design tokens defined, base path helper, and image assets migrated. Site loads a blank page at `localhost:4321`.
+
+**Branch**: `feat/phase-0-scaffolding` from `main`
 
 ### Tasks
 
-- [ ] Create git branch: `git checkout -b feat/astro-rebuild`
+- [ ] Create git branch: `git checkout -b feat/phase-0-scaffolding`
 - [ ] Remove Jekyll config: delete `_config.yml`
 - [ ] Scaffold Astro project in repo root:
   ```bash
@@ -101,10 +114,15 @@ npm run build
 ```
 
 **Commit**: `feat(phase-0): scaffold Astro project with Tailwind and design tokens`
+**PR**: Merge `feat/phase-0-scaffolding` → `main`
 
 ---
 
 ## Phase 1: Base Layout & Navigation
+
+> Shared page shell used by every page — sticky header with nav links, footer with social links, dark/light mode toggle with persistence, and skip-to-content link. Temporary blank homepage to verify.
+
+**Branch**: `feat/phase-1-layout-nav` from `main` (after Phase 0 is merged)
 
 ### Tasks
 
@@ -165,10 +183,15 @@ npm run build
 ```
 
 **Commit**: `feat(phase-1): add base layout, navigation, footer, and dark mode toggle`
+**PR**: Merge `feat/phase-1-layout-nav` → `main`
 
 ---
 
 ## Phase 2: Homepage Sections
+
+> All 7 visual sections of the homepage — Hero (GSAP animation), About (photo + bio), Featured Projects (3 hardcoded cards), Skills (6 category grid), Experience (vertical timeline), Education (2 cards), and Contact CTA.
+
+**Branch**: `feat/phase-2-homepage` from `main` (after Phase 1 is merged)
 
 ### Tasks
 
@@ -253,10 +276,15 @@ npm run build
 ```
 
 **Commit**: `feat(phase-2): build all homepage sections`
+**PR**: Merge `feat/phase-2-homepage` → `main`
 
 ---
 
 ## Phase 3: Content Collections & Project Pages
+
+> Astro content collection schemas, 4 project markdown files, `/projects` index with tag filtering, individual project case study pages, and wires homepage FeaturedProjects to real collection data.
+
+**Branch**: `feat/phase-3-content-collections` from `main` (after Phase 2 is merged)
 
 ### Tasks
 
@@ -316,10 +344,15 @@ npm run build
 ```
 
 **Commit**: `feat(phase-3): add content collections and project case study pages`
+**PR**: Merge `feat/phase-3-content-collections` → `main`
 
 ---
 
 ## Phase 4: Blog Infrastructure
+
+> 3 seed blog post markdown files, `/blog` index page sorted by date with reading time, and individual blog post pages with Tailwind Typography.
+
+**Branch**: `feat/phase-4-blog` from `main` (after Phase 3 is merged)
 
 ### Tasks
 
@@ -364,10 +397,15 @@ npm run build
 ```
 
 **Commit**: `feat(phase-4): add blog with content collection and seed posts`
+**PR**: Merge `feat/phase-4-blog` → `main`
 
 ---
 
 ## Phase 5: Contact Page
+
+> `/contact` page with a 3-field form (Formspree), social links, and a placeholder `resume.pdf`. Can be built in parallel with Phases 2–4.
+
+**Branch**: `feat/phase-5-contact` from `main` (after Phase 1 is merged)
 
 ### Tasks
 
@@ -403,10 +441,15 @@ npm run build
 ```
 
 **Commit**: `feat(phase-5): add contact page with form and social links`
+**PR**: Merge `feat/phase-5-contact` → `main`
 
 ---
 
 ## Phase 6: SEO, Accessibility & Performance
+
+> Cross-cutting audit — `robots.txt`, OG image, sitemap verification, 404 page, and fixes for meta tags, heading hierarchy, alt text, aria labels, focus rings, image dimensions, and reduced motion across all pages.
+
+**Branch**: `feat/phase-6-seo-a11y-perf` from `main` (after Phases 2–5 are merged)
 
 ### Tasks
 
@@ -466,10 +509,15 @@ npm run build
 ```
 
 **Commit**: `feat(phase-6): add SEO meta, accessibility fixes, and performance optimisation`
+**PR**: Merge `feat/phase-6-seo-a11y-perf` → `main`
 
 ---
 
 ## Phase 7: GitHub Actions Deployment
+
+> GitHub Actions workflow (`deploy.yml`) for automatic build and deploy to GitHub Pages on push to `main`. Can be merged early for continuous deployment.
+
+**Branch**: `feat/phase-7-deployment` from `main` (after Phase 1 is merged)
 
 ### Tasks
 
@@ -497,10 +545,15 @@ npm run build
 ```
 
 **Commit**: `feat(phase-7): add GitHub Actions deployment workflow`
+**PR**: Merge `feat/phase-7-deployment` → `main`
 
 ---
 
 ## Phase 8: Polish
+
+> Final pass — CSS scroll-driven reveal animations, hover effects on cards/links/buttons, responsive fine-tuning (320px–1440px), back-to-top button, content cross-check against `CONTENT.md`, dark/light mode review, and cleanup of old Jekyll files.
+
+**Branch**: `feat/phase-8-polish` from `main` (after Phase 6 is merged)
 
 ### Tasks
 
@@ -557,17 +610,18 @@ npm run build
 ```
 
 **Commit**: `feat(phase-8): add animations, hover effects, and final polish`
+**PR**: Merge `feat/phase-8-polish` → `main`
 
 ---
 
-## Final Merge
+## Final Verification
 
-After all phases are complete and verified:
+After all phase branches are merged to `main`:
 
 ```bash
-git checkout main
-git merge feat/astro-rebuild
-git push origin main
-# → GitHub Actions deploys automatically
-# → Verify live site at https://sijothomas97.github.io/portfolio
+# Verify live site at https://sijothomas97.github.io/portfolio
+# → All pages load with correct asset paths
+# → Navigation works between pages
+# → Dark/light mode toggle works
+# → All Lighthouse scores 90+ (Accessibility: 100)
 ```
