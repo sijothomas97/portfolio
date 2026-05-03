@@ -1,0 +1,40 @@
+---
+import { Sun, Moon } from '@lucide/astro';
+---
+
+<button
+  type="button"
+  data-theme-toggle
+  aria-label="Toggle theme"
+  class="p-2 rounded-md text-text-secondary-light dark:text-text-secondary hover:text-accent-light dark:hover:text-accent transition-colors focus:outline-none focus:ring-2 focus:ring-accent"
+>
+  <Sun class="hidden dark:block" size={20} aria-hidden="true" />
+  <Moon class="block dark:hidden" size={20} aria-hidden="true" />
+</button>
+
+<script is:inline>
+  (function () {
+    const buttons = document.querySelectorAll('[data-theme-toggle]');
+    if (!buttons.length) return;
+
+    function syncLabels() {
+      const isDark = document.documentElement.classList.contains('dark');
+      const label = isDark ? 'Switch to light mode' : 'Switch to dark mode';
+      buttons.forEach((b) => b.setAttribute('aria-label', label));
+    }
+
+    syncLabels();
+
+    buttons.forEach((b) => {
+      b.addEventListener('click', () => {
+        const isDark = document.documentElement.classList.toggle('dark');
+        try {
+          localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        } catch (_e) {
+          /* ignore */
+        }
+        syncLabels();
+      });
+    });
+  })();
+</script>
