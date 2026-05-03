@@ -1,0 +1,61 @@
+---
+import { withBase } from '../../utils/links';
+import ProjectCard from '../ProjectCard.astro';
+import { ArrowRight } from '@lucide/astro';
+
+// Hardcoded for Phase 2; wired to content collection in Phase 3.
+const featured = [
+  {
+    id: 'financial-market-prediction',
+    title: 'Financial Market Prediction: Time Series Forecasting',
+    description:
+      'Advanced time series forecasting system using ARIMA, SARIMA, and GARCH models to predict financial market trends from historical data.',
+    tags: ['Python', 'Time Series', 'Statistical Modeling', 'Finance'],
+  },
+  {
+    id: 'handwritten-text-recognition',
+    title: 'Handwritten Text Recognition: Deep Learning',
+    description:
+      'Deep learning OCR system using ResNet, AlexNet, and VGG architectures to recognise and digitise handwritten text from images.',
+    tags: ['Deep Learning', 'Computer Vision', 'CNN', 'Python'],
+  },
+  {
+    id: 'automobile-price-prediction',
+    title: 'Automobile Price Prediction: Machine Learning',
+    description:
+      'ML ensemble system using stacking regression with Ridge, RandomForest, and GradientBoosting to predict used vehicle prices accurately.',
+    tags: ['Machine Learning', 'Regression', 'Python', 'Ensemble Methods'],
+  },
+];
+---
+
+<section
+  aria-labelledby="featured-heading"
+  class="max-w-6xl mx-auto px-4 md:px-6 py-20 md:py-24"
+>
+  <h2
+    id="featured-heading"
+    class="text-3xl font-semibold text-text-primary-light dark:text-text-primary mb-4"
+  >
+    Featured Projects
+  </h2>
+  <p
+    class="text-text-secondary-light dark:text-text-secondary text-body-lg mb-12 max-w-2xl"
+  >
+    A selection of projects showcasing my AI/ML expertise.
+  </p>
+
+  <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+    {featured.map((p) => <ProjectCard {...p} />)}
+  </div>
+
+  <div class="mt-12 flex justify-center">
+    <a
+      href={withBase('/projects')}
+      class="inline-flex items-center gap-2 text-accent-light dark:text-accent font-medium hover:text-accent-light-hover dark:hover:text-accent-hover transition-colors focus:outline-none focus:ring-2 focus:ring-accent rounded"
+    >
+      View All Projects
+      <ArrowRight size={18} aria-hidden="true" />
+    </a>
+  </div>
+</section>

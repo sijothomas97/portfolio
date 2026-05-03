@@ -1,0 +1,33 @@
+---
+import { withBase } from '../../utils/links';
+---
+
+<section
+  aria-labelledby="contact-cta-heading"
+  class="max-w-6xl mx-auto px-4 md:px-6 py-20 md:py-24"
+>
+  <div
+    class="bg-surface-light dark:bg-surface rounded-2xl border border-border-light dark:border-border p-10 md:p-14 text-center"
+  >
+    <h2
+      id="contact-cta-heading"
+      class="text-3xl md:text-4xl font-semibold text-text-primary-light dark:text-text-primary"
+    >
+      Let's Work Together
+    </h2>
+    <p
+      class="mt-4 mx-auto max-w-2xl text-body-lg text-text-secondary-light dark:text-text-secondary"
+    >
+      I'm open to ML engineering roles, consulting opportunities, and technical collaboration.
+      Let's build something intelligent.
+    </p>
+    <div class="mt-8 flex justify-center">
+      <a
+        href={withBase('/contact')}
+        class="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-accent-light dark:bg-accent text-primary-light dark:text-primary font-semibold hover:bg-accent-light-hover dark:hover:bg-accent-hover transition-colors focus:outline-none focus:ring-2 focus:ring-accent focus:ring-offset-2 focus:ring-offset-surface-light dark:focus:ring-offset-surface"
+      >
+        Get in Touch
+      </a>
+    </div>
+  </div>
+</section>
