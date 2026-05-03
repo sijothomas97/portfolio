@@ -1,0 +1,103 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ProjectCard from '../../components/ProjectCard.astro';
+
+const projects = await getCollection('projects');
+projects.sort((a, b) => b.data.date.getTime() - a.data.date.getTime());
+
+const allTags = Array.from(new Set(projects.flatMap((p) => p.data.tags))).sort();
+---
+
+<BaseLayout
+  title="Projects"
+  description="Case studies in AI, ML, and software engineering — from time series forecasting to deep learning to ensemble regression."
+>
+  <section class="max-w-6xl mx-auto px-4 md:px-6 py-20 md:py-24">
+    <h1
+      class="text-4xl font-bold tracking-tight text-text-primary-light dark:text-text-primary"
+    >
+      Projects
+    </h1>
+    <p class="mt-4 text-body-lg text-text-secondary-light dark:text-text-secondary max-w-2xl">
+      Case studies in AI, ML, and software engineering — each with the problem, my approach, and
+      what I learned.
+    </p>
+
+    <div
+      role="group"
+      aria-label="Filter projects by tag"
+      class="mt-10 mb-12 flex flex-wrap gap-2"
+    >
+      <button
+        type="button"
+        data-filter="all"
+        aria-pressed="true"
+        class="filter-btn px-3 py-1 rounded-full text-sm font-mono border border-accent-light dark:border-accent text-accent-light dark:text-accent transition-colors focus:outline-none focus:ring-2 focus:ring-accent"
+      >
+        All
+      </button>
+      {
+        allTags.map((tag) => (
+          <button
+            type="button"
+            data-filter={tag.toLowerCase()}
+            aria-pressed="false"
+            class="filter-btn px-3 py-1 rounded-full text-sm font-mono border border-border-light dark:border-border text-text-secondary-light dark:text-text-secondary hover:border-accent-light dark:hover:border-accent hover:text-accent-light dark:hover:text-accent transition-colors focus:outline-none focus:ring-2 focus:ring-accent"
+          >
+            {tag}
+          </button>
+        ))
+      }
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+      {
+        projects.map((p) => (
+          <ProjectCard
+            id={p.id}
+            title={p.data.title}
+            description={p.data.description}
+            tags={p.data.tags}
+            thumbnail={p.data.thumbnail}
+          />
+        ))
+      }
+    </div>
+  </section>
+</BaseLayout>
+
+<script is:inline>
+  (function () {
+    const buttons = document.querySelectorAll('.filter-btn');
+    const cards = document.querySelectorAll('[data-project]');
+    if (!buttons.length || !cards.length) return;
+
+    const ACTIVE = ['border-accent-light', 'dark:border-accent', 'text-accent-light', 'dark:text-accent'];
+    const INACTIVE = ['border-border-light', 'dark:border-border', 'text-text-secondary-light', 'dark:text-text-secondary'];
+
+    function setPressed(btn, pressed) {
+      btn.setAttribute('aria-pressed', String(pressed));
+      const add = pressed ? ACTIVE : INACTIVE;
+      const remove = pressed ? INACTIVE : ACTIVE;
+      add.forEach((c) => btn.classList.add(c));
+      remove.forEach((c) => btn.classList.remove(c));
+    }
+
+    function applyFilter(filter) {
+      cards.forEach((card) => {
+        const tags = (card.getAttribute('data-tags') || '').split(',');
+        const match = filter === 'all' || tags.includes(filter);
+        card.toggleAttribute('hidden', !match);
+      });
+    }
+
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const filter = btn.getAttribute('data-filter') || 'all';
+        buttons.forEach((b) => setPressed(b, b === btn));
+        applyFilter(filter);
+      });
+    });
+  })();
+</script>

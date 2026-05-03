@@ -1,32 +1,13 @@
 ---
+import { getCollection } from 'astro:content';
 import { withBase } from '../../utils/links';
 import ProjectCard from '../ProjectCard.astro';
 import { ArrowRight } from '@lucide/astro';
 
-// Hardcoded for Phase 2; wired to content collection in Phase 3.
-const featured = [
-  {
-    id: 'financial-market-prediction',
-    title: 'Financial Market Prediction: Time Series Forecasting',
-    description:
-      'Advanced time series forecasting system using ARIMA, SARIMA, and GARCH models to predict financial market trends from historical data.',
-    tags: ['Python', 'Time Series', 'Statistical Modeling', 'Finance'],
-  },
-  {
-    id: 'handwritten-text-recognition',
-    title: 'Handwritten Text Recognition: Deep Learning',
-    description:
-      'Deep learning OCR system using ResNet, AlexNet, and VGG architectures to recognise and digitise handwritten text from images.',
-    tags: ['Deep Learning', 'Computer Vision', 'CNN', 'Python'],
-  },
-  {
-    id: 'automobile-price-prediction',
-    title: 'Automobile Price Prediction: Machine Learning',
-    description:
-      'ML ensemble system using stacking regression with Ridge, RandomForest, and GradientBoosting to predict used vehicle prices accurately.',
-    tags: ['Machine Learning', 'Regression', 'Python', 'Ensemble Methods'],
-  },
-];
+const all = await getCollection('projects');
+const featured = all
+  .filter((p) => p.data.featured)
+  .sort((a, b) => (a.data.featuredOrder ?? Number.POSITIVE_INFINITY) - (b.data.featuredOrder ?? Number.POSITIVE_INFINITY));
 ---
 
 <section
@@ -46,7 +27,17 @@ const featured = [
   </p>
 
   <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-    {featured.map((p) => <ProjectCard {...p} />)}
+    {
+      featured.map((p) => (
+        <ProjectCard
+          id={p.id}
+          title={p.data.title}
+          description={p.data.description}
+          tags={p.data.tags}
+          thumbnail={p.data.thumbnail}
+        />
+      ))
+    }
   </div>
 
   <div class="mt-12 flex justify-center">
