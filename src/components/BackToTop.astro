@@ -1,0 +1,29 @@
+---
+import { ArrowUp } from '@lucide/astro';
+---
+
+<button
+  id="back-to-top"
+  type="button"
+  aria-label="Back to top"
+  class="fixed bottom-6 right-6 z-40 inline-flex items-center justify-center w-11 h-11 rounded-full bg-accent-light dark:bg-accent text-primary-light dark:text-primary shadow-lg shadow-black/20 opacity-0 invisible translate-y-2 transition-all duration-200 hover:bg-accent-light-hover dark:hover:bg-accent-hover focus:outline-none focus:ring-2 focus:ring-accent focus:ring-offset-2 focus:ring-offset-primary-light dark:focus:ring-offset-primary data-[visible=true]:opacity-100 data-[visible=true]:visible data-[visible=true]:translate-y-0"
+>
+  <ArrowUp size={20} aria-hidden="true" />
+</button>
+
+<script>
+  const btn = document.getElementById('back-to-top');
+  if (btn) {
+    const toggle = () => {
+      const show = window.scrollY > window.innerHeight * 0.8;
+      btn.setAttribute('data-visible', String(show));
+    };
+    toggle();
+    window.addEventListener('scroll', toggle, { passive: true });
+
+    btn.addEventListener('click', () => {
+      const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      window.scrollTo({ top: 0, behavior: reduce ? 'auto' : 'smooth' });
+    });
+  }
+</script>
