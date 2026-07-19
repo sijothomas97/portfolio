@@ -36,6 +36,25 @@ html {
   scroll-behavior: smooth;
 }
 
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    .reveal-on-scroll {
+      opacity: 0;
+      transform: translateY(20px);
+      animation: revealUp 0.6s ease forwards;
+      animation-timeline: view();
+      animation-range: entry 0% entry 30%;
+    }
+
+    @keyframes revealUp {
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
     animation-duration: 0.01ms !important;
