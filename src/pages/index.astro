@@ -7,12 +7,45 @@ import Skills from '../components/sections/Skills.astro';
 import Experience from '../components/sections/Experience.astro';
 import Education from '../components/sections/Education.astro';
 import ContactCTA from '../components/sections/ContactCTA.astro';
+
+const personSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'Person',
+  name: 'Sijo Thomas',
+  url: 'https://sijothomas97.github.io/portfolio',
+  jobTitle: 'AI / ML Engineer',
+  description:
+    'AI & Machine Learning Engineer specialising in Generative AI, LLM & RAG, AWS, NLP, and Python.',
+  sameAs: [
+    'https://www.linkedin.com/in/sijothomas97/',
+    'https://github.com/sijothomas97',
+  ],
+  alumniOf: {
+    '@type': 'CollegeOrUniversity',
+    name: 'Manchester Metropolitan University',
+  },
+  knowsAbout: [
+    'Machine Learning',
+    'Generative AI',
+    'RAG',
+    'LLM',
+    'AWS',
+    'Python',
+    'NLP',
+  ],
+};
 ---
 
 <BaseLayout
   title="Home"
   description="AI & Machine Learning Engineer specialising in Generative AI, LLM & RAG, AWS, NLP, and Python. 5+ years building production ML systems."
 >
+  <script
+    type="application/ld+json"
+    slot="head"
+    set:html={JSON.stringify(personSchema)}
+  />
+
   <Hero />
   <About />
   <FeaturedProjects />
