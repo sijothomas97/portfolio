@@ -37,9 +37,16 @@ const ogImageUrl = `${siteOrigin}${withBase(ogImage)}`;
 
     <title>{fullTitle}</title>
     <meta name="description" content={description} />
+    <meta name="author" content="Sijo Thomas" />
     <link rel="canonical" href={canonical} />
     <link rel="icon" type="image/svg+xml" href={withBase('/favicon.svg')} />
     <link rel="sitemap" href={withBase('/sitemap-index.xml')} />
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Sijo Thomas — Blog"
+      href={withBase('/rss.xml')}
+    />
 
     <meta property="og:title" content={fullTitle} />
     <meta property="og:description" content={description} />

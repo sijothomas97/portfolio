@@ -19,9 +19,39 @@ const dateLabel = post.data.pubDate.toLocaleDateString('en-GB', {
   month: 'long',
   day: 'numeric',
 });
+
+const canonical = new URL(Astro.url.pathname, Astro.site).toString();
+const articleSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BlogPosting',
+  headline: post.data.title,
+  description: post.data.description,
+  datePublished: post.data.pubDate.toISOString(),
+  ...(post.data.updatedDate && { dateModified: post.data.updatedDate.toISOString() }),
+  author: {
+    '@type': 'Person',
+    name: 'Sijo Thomas',
+    url: 'https://sijothomas97.github.io/portfolio',
+  },
+  keywords: post.data.tags,
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': canonical,
+  },
+};
 ---
 
-<BaseLayout title={post.data.title} description={post.data.description} ogType="article">
+<BaseLayout
+  title={post.data.title}
+  description={post.data.description}
+  ogType="article"
+  ogImage={post.data.ogImage}
+>
+  <script
+    type="application/ld+json"
+    slot="head"
+    set:html={JSON.stringify(articleSchema)}
+  />
   <article class="max-w-3xl mx-auto px-4 md:px-6 py-16 md:py-20">
     <header class="mb-12">
       <a
