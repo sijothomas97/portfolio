@@ -4,7 +4,6 @@ description: "What real financial data taught me about stationarity, ARIMA vs GA
 pubDate: 2024-12-01
 tags: ["Time Series", "Python", "Statistics", "Finance", "ARIMA", "GARCH"]
 draft: false
-readingTime: "6 min read"
 ---
 
 For my MSc research, I built a comprehensive time series forecasting system for financial market prediction. Here's what the textbooks don't tell you about working with real financial data.

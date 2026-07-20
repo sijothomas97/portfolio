@@ -4,7 +4,6 @@ description: "Lessons from production RAG pipelines on AWS — chunking, hybrid 
 pubDate: 2025-01-15
 tags: ["RAG", "AWS", "LLM", "GenAI", "Python", "LangChain"]
 draft: false
-readingTime: "8 min read"
 ---
 
 Retrieval-Augmented Generation (RAG) has become the go-to architecture for building LLM-powered applications that need access to domain-specific knowledge. After building several production RAG systems on AWS, here are the practical lessons I've learned.

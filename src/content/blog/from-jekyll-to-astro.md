@@ -4,7 +4,6 @@ description: "Why I rebuilt my single-README Jekyll portfolio with Astro 5 + Tai
 pubDate: 2025-03-01
 tags: ["Astro", "Tailwind", "Portfolio", "Web Development"]
 draft: false
-readingTime: "4 min read"
 ---
 
 I recently rebuilt my portfolio from a GitHub README into a proper website using Astro. Here's why I made the switch and what I learned.
