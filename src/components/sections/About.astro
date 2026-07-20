@@ -1,5 +1,6 @@
 ---
-import { withBase } from '../../utils/links';
+import { Image } from 'astro:assets';
+import profileImage from '../../assets/sijo-thomas.jpeg';
 ---
 
 <section
@@ -9,11 +10,11 @@ import { withBase } from '../../utils/links';
 >
   <div class="grid grid-cols-1 md:grid-cols-2 gap-8 md:gap-12 items-center">
     <div class="flex justify-center md:justify-start">
-      <img
-        src={withBase('/images/sijo-thomas.jpeg')}
+      <Image
+        src={profileImage}
         alt="Sijo Thomas, AI/ML Engineer"
-        width="400"
-        height="400"
+        width={400}
+        format="webp"
         loading="lazy"
         decoding="async"
         class="rounded-2xl border border-border-light dark:border-border w-full max-w-[400px] h-auto"
