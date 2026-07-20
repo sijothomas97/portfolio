@@ -61,14 +61,17 @@ function isActive(href: string): boolean {
     <div class="flex items-center gap-1">
       <ThemeToggle />
 
-      <details class="md:hidden relative">
+      <details class="md:hidden relative" id="mobile-menu">
         <summary
           class="list-none cursor-pointer p-2 rounded-md text-text-primary-light dark:text-text-primary hover:text-accent-light dark:hover:text-accent focus:outline-none focus:ring-2 focus:ring-accent"
           aria-label="Open navigation menu"
+          aria-controls="mobile-nav"
+          aria-expanded="false"
         >
           <Menu size={22} aria-hidden="true" />
         </summary>
         <ul
+          id="mobile-nav"
           class="absolute right-0 top-full mt-2 min-w-[180px] py-2 rounded-lg border border-border-light dark:border-border bg-primary-light dark:bg-primary shadow-lg shadow-black/10"
         >
           {
@@ -97,3 +100,22 @@ function isActive(href: string): boolean {
     </div>
   </nav>
 </header>
+
+<script>
+  const menu = document.getElementById('mobile-menu') as HTMLDetailsElement | null;
+  if (menu) {
+    const summary = menu.querySelector('summary');
+    const nav = document.getElementById('mobile-nav');
+
+    menu.addEventListener('toggle', () => {
+      summary?.setAttribute('aria-expanded', String(menu.open));
+    });
+
+    nav?.querySelectorAll('a').forEach((link) => {
+      link.addEventListener('click', () => {
+        menu.open = false;
+        summary?.focus();
+      });
+    });
+  }
+</script>
