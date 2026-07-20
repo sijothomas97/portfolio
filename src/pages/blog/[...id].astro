@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import { ArrowLeft } from '@lucide/astro';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { withBase } from '../../utils/links';
+import { readingTime } from '../../utils/readingTime';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => data.draft !== true);
@@ -70,7 +71,7 @@ const articleSchema = {
 
       <p class="mt-4 text-sm font-mono text-text-secondary-light dark:text-text-secondary">
         <time datetime={post.data.pubDate.toISOString()}>{dateLabel}</time>
-        {post.data.readingTime && <span> · {post.data.readingTime}</span>}
+        <span> · {post.data.readingTime ?? readingTime(post.body)}</span>
       </p>
 
       {

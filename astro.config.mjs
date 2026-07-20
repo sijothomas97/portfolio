@@ -8,6 +8,10 @@ export default defineConfig({
   site: 'https://sijothomas97.github.io',
   base: '/portfolio',
   output: 'static',
+  prefetch: {
+    prefetchAll: true,
+    defaultStrategy: 'viewport',
+  },
   integrations: [sitemap()],
   vite: {
     plugins: [tailwindcss()],

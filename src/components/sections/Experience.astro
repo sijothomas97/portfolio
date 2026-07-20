@@ -66,9 +66,14 @@ const experiences = [
           <h3 class="text-xl font-semibold text-text-primary-light dark:text-text-primary">
             {entry.company}
           </h3>
-          <p class="mt-1 text-sm font-mono text-accent-light dark:text-accent">
-            {entry.role} | {entry.dates}
-          </p>
+          <dl class="mt-1 text-sm font-mono text-accent-light dark:text-accent">
+            <dt class="sr-only">Role</dt>
+            <dd class="inline">{entry.role}</dd>
+            <dt class="sr-only">Dates</dt>
+            <dd class="inline before:content-['|'] before:mx-2 before:text-border-light dark:before:text-border">
+              {entry.dates}
+            </dd>
+          </dl>
           <ul class="mt-3 space-y-2 text-text-secondary-light dark:text-text-secondary text-body list-disc pl-5 marker:text-accent-light dark:marker:text-accent">
             {entry.bullets.map((b) => (
               <li>{b}</li>
