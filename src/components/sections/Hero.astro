@@ -41,15 +41,3 @@ import SocialLinks from '../SocialLinks.astro';
     <SocialLinks size={22} gap="gap-6" class="hero-social mt-10 justify-center" />
   </div>
 </section>
-
-<script>
-  if (!window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-    import('gsap').then(({ gsap }) => {
-      gsap.from('.hero-name', { opacity: 0, y: 30, duration: 0.8, delay: 0.2 });
-      gsap.from('.hero-title', { opacity: 0, y: 30, duration: 0.8, delay: 0.4 });
-      gsap.from('.hero-description', { opacity: 0, y: 30, duration: 0.8, delay: 0.6 });
-      gsap.from('.hero-ctas', { opacity: 0, y: 30, duration: 0.8, delay: 0.8 });
-      gsap.from('.hero-social', { opacity: 0, y: 30, duration: 0.8, delay: 1.0 });
-    });
-  }
-</script>
